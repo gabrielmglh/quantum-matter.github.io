@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T21:33:40+00:00",
+  "updatedAt": "2026-11-28T15:31:28+00:00",
   "posts": [
     {
       "title": "Möbius Fusion Algebra",
@@ -16,6 +16,22 @@
       "link": "https://arxiv.org/abs/2611.29234",
       "linkText": "arXiv",
       "pdf": "https://arxiv.org/pdf/2611.29234"
+    },
+    {
+      "title": "The Clifford Hierarchy from Clifford Stabilizers in 2D",
+      "category": "recent-preprint",
+      "date": "2026-11-18",
+      "author": "Alison Warman, Sakura Schafer-Nameki",
+      "reference": "arXiv:2611.25025",
+      "subject": "quant-ph, cond-mat.str-el, hep-th, math.QA",
+      "abstract": "The Bravyi-König theorem limits the constant-depth logical gates of 2D topological Pauli stabilizer codes to be in the Clifford group. Known qubit codes with Clifford stabilizers exceed it by only one level of the Clifford hierarchy, and this was conjectured to hold generally. We show that this bound can be completely bypassed, and that topological codes with Clifford stabilizers in 2D can realize transversal logical gates at any level of the Clifford hierarchy. We present two explicit constructions of codes based on copies of the quantum doubles of $D_4$ and $\\mathbb{Z}_2$, with $k$ logical qubits and a logical $C^{k-1}Z$ gate, which is at level $k$ of the Clifford hierarchy. The physical circuits realizing the gates consist only of physical $Z$ or $CZ$ gates. The main new ingredient comes from the logical encoding, which depends crucially on non-Abelian group multiplication.",
+      "followedAuthors": [
+        "Sakura Schafer-Nameki"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2611.25025",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2611.25025"
     },
     {
       "title": "Computing $F$-Symbols from Modular Data",
@@ -48,6 +64,70 @@
       "link": "https://arxiv.org/abs/2611.24752",
       "linkText": "arXiv",
       "pdf": "https://arxiv.org/pdf/2611.24752"
+    },
+    {
+      "title": "Non-Invertible Quantum Cellular Automata I: Microscopic Definition of Non-Invertible Symmetries",
+      "category": "recent-preprint",
+      "date": "2026-11-17",
+      "author": "Sahand Seifnashri, Shu-Heng Shao",
+      "reference": "arXiv:2611.22928",
+      "subject": "cond-mat.str-el, hep-th, math-ph, quant-ph",
+      "abstract": "We introduce non-invertible quantum cellular automata (QCAs), defined as locality-preserving quantum channels that are dualizable and pure. This provides an operator-algebraic definition of non-invertible symmetries of quantum lattice systems, formulated in terms of their action on local operators. Focusing on quantum spin chains, we motivate these defining conditions and conjecture that every such quantum channel admits a realization by dualizable topological defects or, equivalently, by dualizable sequential quantum circuits. We construct a broad class of examples, including on-site non-invertible symmetries that are anomalous, as well as higher-dimensional examples. In Part II of this work, we reconstruct topological defects whose boundary algebras yield an index theory that classifies non-invertible QCAs up to blend equivalence.",
+      "followedAuthors": [
+        "Shu-Heng Shao"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2611.22928",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2611.22928"
+    },
+    {
+      "title": "The SymTFT and Quantum Phases of Matter",
+      "category": "recent-preprint",
+      "date": "2026-11-16",
+      "author": "Salvatore D. Pace, Sakura Schafer-Nameki, Carolyn Zhang",
+      "reference": "arXiv:2611.21715",
+      "subject": "cond-mat.str-el, hep-ph, hep-th, quant-ph",
+      "abstract": "The symmetry topological field theory (SymTFT) provides a unified framework for ordinary and generalized symmetries of quantum many-body systems. By encoding symmetry in a topological theory in one higher dimension, it separates symmetry data from the details of a specific quantum system. In this review, we give a pedagogical introduction to this framework and survey its applications to phases of quantum matter. For fusion category symmetries in ${(1+1)}$d, we explain how the SymTFT characterizes anomalies, classifies gapped phases, and organizes the symmetry structure of gapless phases. We also give a broad overview of further developments of this framework, including extensions to symmetries in higher dimensions, continuous symmetries, fermionic systems, mixed states, and spacetime symmetries.",
+      "followedAuthors": [
+        "Sakura Schafer-Nameki"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2611.21715",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2611.21715"
+    },
+    {
+      "title": "On reflection positivity of lattice chiral fermions",
+      "category": "recent-preprint",
+      "date": "2026-11-15",
+      "author": "Zhiyao Lu, Shu-Heng Shao",
+      "reference": "arXiv:2611.20084",
+      "subject": "hep-th, cond-mat.str-el, hep-lat, hep-ph",
+      "abstract": "We point out that the overlap Weyl fermion, the spacetime lattice realization of a Weyl fermion underlying Lüscher's construction of lattice chiral gauge theories, is not reflection positive in two and four dimensions at finite lattice spacing. Consequently, the standard Osterwalder--Schrader reconstruction does not yield a Hilbert space with a self-adjoint Hamiltonian. In two dimensions, we further show that the overlap Weyl fermion cannot be cut open: the lattice action becomes nonlocal in the presence of a boundary, as expected from the gravitational anomaly of the continuum field theory. By contrast, the overlap Dirac fermion is known to be reflection positive. However, its compact axial symmetry is not invariant under the reflection, whereas a reflection-invariant axial symmetry is noncompact, and both are part of an Onsager algebra.",
+      "followedAuthors": [
+        "Shu-Heng Shao"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2611.20084",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2611.20084"
+    },
+    {
+      "title": "Fibonacci Non-Abelian Quantum Hall States with Pair Structure - a classification of chiral 2-cluster many-body wave-functions",
+      "category": "recent-preprint",
+      "date": "2026-11-13",
+      "author": "Abigail Timmel, Xiao-Gang Wen",
+      "reference": "arXiv:2611.18521",
+      "subject": "cond-mat.str-el",
+      "abstract": "Fibonacci anyons support universal topological quantum computation. They have been proposed to emerge in fractional quantum Hall (FQH) systems, such as the filling-fraction $ν=\\tfrac{2}{3}$ state described by an effective $SU(3)_2$ Chern-Simons theory, and the $ν=\\tfrac{2}{5}$ state with a $3$-cluster structure (an $n$-cluster structure means that $n$-electron bound states form a Laughlin-type wave function of the form $(z^{(n)}_i-z^{(n)}_j)^m$). In this work, we systematically classify FQH wave functions $P(z_1,\\ldots,z_N)$ in the $N\\rightarrow\\infty$ limit, through a generalized pattern of zeros (gPOZ) approach, where the wave function is determined by the leading order of zero along with the accompanying leading polynomial that develops as successive number of $z_i$'s are brought together. Within this approach, we obtain a $(ν,h,c)$-classification of wave functions with a $2$-cluster (pair) structure. Among these wave functions, those with $(h,c) = (\\tfrac12,\\tfrac12)$, $(\\tfrac32,\\tfrac{7}{10})$, $(3,\\tfrac45)$ correspond to gapped FQH states with filling fraction $ν$ and edge-state chiral central charge $c+1$, while others with $c<0$ may be gapless. We find that even a $2$-cluster structure can give rise to Fibonacci statistics, for $(ν,h,c) = (\\tfrac14,\\tfrac32,\\tfrac{7}{10})$, corresponding to the $(5,4)$ minimal model, and for $(ν,h,c) = (\\tfrac17,3,\\tfrac45)$, corresponding to the $(6,5)$ minimal model. We further construct an ideal $4$-body Hamiltonian whose ground state is the $(\\tfrac14,\\tfrac32,\\tfrac{7}{10})$ state.",
+      "followedAuthors": [
+        "Xiao-Gang Wen"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2611.18521",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2611.18521"
     },
     {
       "title": "Planckian Charge Equilibration in Fast Scramblers",
@@ -98,6 +178,22 @@
       "pdf": "https://arxiv.org/pdf/2611.07017"
     },
     {
+      "title": "An Exact QFT/Lattice Map for Fermions",
+      "category": "recent-preprint",
+      "date": "2026-11-03",
+      "author": "Shu-Heng Shao, Nikita Sopenko",
+      "reference": "arXiv:2611.05329",
+      "subject": "hep-th, cond-mat.str-el, hep-lat, math-ph",
+      "abstract": "We construct an exact map between continuum fermion fields and lattice fields in 1+1 dimensions. This map rewrites a continuum Hamiltonian as a lattice Hamiltonian with nearest-neighbor couplings and an infinite-dimensional local Hilbert space. The resulting lattice model reproduces exactly the energy spectrum, global operator algebra, chiral symmetries, and anomalies of the continuum QFT on any finite lattice. Unlike domain wall fermions, truncating the local Hilbert space introduces no extra massless modes, and the entanglement entropy of an interval converges as the truncation is removed. The lattice local algebras are of type I and lie between the type III continuum algebras of nested spatial regions, in accordance with the split property. We demonstrate this construction explicitly for $N$ Majorana fermions, realizing the $\\mathrm{O}(N)_\\mathrm{L}\\times\\mathrm{O}(N)_\\mathrm{R}$ lattice chiral symmetry. We also construct an exact lattice model for the Schwinger model and numerically reproduce the mass gap $e/\\sqrtπ$.",
+      "followedAuthors": [
+        "Shu-Heng Shao"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2611.05329",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2611.05329"
+    },
+    {
       "title": "A Note On Lattice Definition of Gauge Theories With Chiral Fermions",
       "category": "recent-preprint",
       "date": "2026-11-03",
@@ -128,6 +224,22 @@
       "link": "https://arxiv.org/abs/2611.03817",
       "linkText": "arXiv",
       "pdf": "https://arxiv.org/pdf/2611.03817"
+    },
+    {
+      "title": "5d SCFTs and Intersection Theory of Generalized Toric Threefolds",
+      "category": "recent-preprint",
+      "date": "2026-10-30",
+      "author": "Hülya Argüz, Antoine Bourget, Pierrick Bousseau, Julius F. Grimminger, Sakura Schafer-Nameki",
+      "reference": "arXiv:2611.00366",
+      "subject": "hep-th",
+      "abstract": "Five-dimensional superconformal field theories are intrinsically strongly coupled fixed points that can be realized as M-theory on local Calabi-Yau threefolds with canonical singularities. The low-energy effective theory on their extended Coulomb branch is governed by a cubic prepotential, determined by the triple intersection numbers of divisors in the resolved geometry. For toric threefolds, dual to 5-brane webs, these numbers are computed combinatorially from the toric polygon. However, no such description has been available for generalized toric polygons (GTPs), dual to 5-brane webs with 7-branes, since the corresponding generalized toric Calabi-Yau threefolds are generally non-toric. We show that the 7-brane data are encoded by additional lines in the GTP, which correspond to non-toric, non-compact divisors that we call exuberant divisors. Building on a local analysis of these divisors and on the associativity of the intersection product, we develop an algorithm that computes the triple intersection numbers, and hence the prepotential, directly from the combinatorial data of the GTP. We illustrate it in examples and provide a Mathematica code implementation of the intersection algorithm.",
+      "followedAuthors": [
+        "Sakura Schafer-Nameki"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2611.00366",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2611.00366"
     },
     {
       "title": "Faster-than-power-law decay of order parameter correlations in the two-dimensional RP$^2$ model: a rigorous result by vibe-proving",
@@ -226,6 +338,22 @@
       "pdf": "https://arxiv.org/pdf/2610.31610"
     },
     {
+      "title": "Proliferation Transitions for Quantum Doubles of Groups",
+      "category": "recent-preprint",
+      "date": "2026-10-20",
+      "author": "Yuhan Gai, Sakura Schafer-Nameki",
+      "reference": "arXiv:2610.28253",
+      "subject": "cond-mat.str-el, hep-th, math.QA",
+      "abstract": "Proliferation transitions are phase transitions between a 2+1d topological order $\\mathcal{T}$ and another $\\mathcal{T}/\\mathcal{A}$, obtained by condensing anyons in an algebra $\\mathcal{A}\\subset \\mathcal{T}$. We consider such transitions in quantum doubles of groups, $\\mathcal{T}=D(G, ω)$, for finite groups $G$ possibly with three-cocycle $ω$, for which condensable algebras are fully classified. Given a condensable algebra $\\mathcal{A}$, we represent $\\mathcal{T}$ in terms of a Symmetry Topological Field Theory (SymTFT), that is tailored to the $\\mathcal{A}$ proliferation transition. The SymTFT bulk is constructed from the Müger center of the subcategory generated by the algebra, i.e. the category of transparent lines, which can be bosons or fermions. Properties of the transition can then be inferred directly from the algebra classification data. For gauged Landau-Ginzburg (LG*) type transitions, we show that they do not only depend on the anyons in $\\mathcal{A}$ through their field content, but the cubic interactions are fixed in terms of the multiplication structure of $\\mathcal{A}$. Applied to twin algebras, which have the same anyon content but different multiplication structures, we show that twins result in distinct proliferation transitions.",
+      "followedAuthors": [
+        "Sakura Schafer-Nameki"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2610.28253",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2610.28253"
+    },
+    {
       "title": "Field theories and critical excitations at anyon condensation transitions",
       "category": "recent-preprint",
       "date": "2026-10-20",
@@ -304,6 +432,22 @@
       "link": "https://arxiv.org/abs/2610.19004",
       "linkText": "arXiv",
       "pdf": "https://arxiv.org/pdf/2610.19004"
+    },
+    {
+      "title": "Holographic theory of non-invertible gravitational anomalies",
+      "category": "recent-preprint",
+      "date": "2026-10-11",
+      "author": "Xiao-Gang Wen",
+      "reference": "arXiv:2610.15358",
+      "subject": "hep-th, cond-mat.str-el",
+      "abstract": "We review a many-body formulation of gravitational anomalies as obstructions to realizing the complete low-energy data by a local {\\it bosonic} lattice quantum system of the same dimension. In this formulation, an anomalous theory can be realized at the boundary of a gapped {\\it bosonic} lattice bulk, whose topological order gives a one-to-one classification of the anomaly. An invertible bulk reproduces conventional anomaly inflow; a bulk with non-trivial topological excitations yields a non-invertible generalization. To describe the holographic theory of anomalies, we explain the distinction between uniquely defined topological order and many versions of topological quantum field theory and discuss the boundary-to-bulk map. As an application of the holographic theory of anomalies, we describe morphisms between local quantum theories (such as quantum field theories). These morphisms are built from a bulk domain wall and an invertible boundary junction, which give rise to a sandwich picture. Chiral boson/fermion theory, Laughlin edges, and boundaries of $\\mathbb{Z}_2$ higher gauge theory with bosonic or fermionic point-like excitations illustrate the different kinds of information about non-invertible anomalies contained in transport coefficients, superselection sectors, and condensation data. In particular, a fermionic theory can be viewed as a theory with a particular non-invertible gravitational anomaly. Those examples also reveal that {\\it symmetry $\\sim$ gravitational anomaly $\\sim$ topological order in one higher dimension}.",
+      "followedAuthors": [
+        "Xiao-Gang Wen"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2610.15358",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2610.15358"
     },
     {
       "title": "An Instability of the Quantum Markov Length",
@@ -387,6 +531,22 @@
       "pdf": "https://arxiv.org/pdf/2610.04704"
     },
     {
+      "title": "Exact Recovery for Non-Abelian Surface Codes",
+      "category": "recent-preprint",
+      "date": "2026-10-02",
+      "author": "Alison Warman, Nathanan Tantivasadakarn, Sakura Schafer-Nameki",
+      "reference": "arXiv:2610.03677",
+      "subject": "quant-ph, cond-mat.str-el, hep-th, math.QA",
+      "abstract": "We study exact recovery for non-Abelian topological surface codes based on the quantum double $D(G)$ of any finite group $G$. We determine an orthogonal error basis, that is comprised of group multiplication and irreducible representation operators. Whenever the errors are supported on closed loops on the lattice or dual lattice, there is a redundancy in the basis, due to stabilizers. To remedy this, we introduce a gauge-fixing that results in a complete and orthogonal error basis on the code space. Assuming as input predetermined, neutral correctable error clusters, we construct charge and flux transfer circuits that move the errors onto ancillas that then get projected out. This is an exact and deterministic recovery protocol, applicable to surface codes for any finite, in particular non-Abelian, group $G$.",
+      "followedAuthors": [
+        "Sakura Schafer-Nameki"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2610.03677",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2610.03677"
+    },
+    {
       "title": "Detectors in Nonrelativistic Conformal Field Theories",
       "category": "recent-preprint",
       "date": "2026-09-29",
@@ -417,6 +577,22 @@
       "link": "https://arxiv.org/abs/2609.31309",
       "linkText": "arXiv",
       "pdf": "https://arxiv.org/pdf/2609.31309"
+    },
+    {
+      "title": "Disentangling the Toric Code",
+      "category": "recent-preprint",
+      "date": "2026-09-24",
+      "author": "Lei Gioia, Salvatore D. Pace, Ruben Verresen, Shu-Heng Shao, Ryan Thorngren",
+      "reference": "arXiv:2609.30363",
+      "subject": "cond-mat.str-el, hep-th, math-ph, quant-ph",
+      "abstract": "Commuting-projector Hamiltonians with integer spectrum such as the 1+1d Ising ferromagnet and the 2+1d toric code may be regarded as the generators of non-on-site $U(1)$ symmetries. In this paper we study whether these symmetries can be made on-site in the presence of finite and infinite-dimensional ancillae. In the finite-dimensional case, we prove that the fractionalized excitations, such as domain walls and anyons, make it impossible to on-site these Hamiltonians. On the other hand, we show that when infinite dimensional ancillae (e.g., rotors) are allowed, both the 1+1d Ising ferromagnet and the 2+1d toric code can be disentangled, yielding on-site symmetries. This is not in contradiction with the non-trivial ground state order of these Hamiltonians, since the ancilla Hamiltonians are no longer bounded from below. Our results indicate agreement between lattice and quantum field theory anomalies in the presence of infinite-dimensional ancillae, while with finite-dimensional ancillae the obstruction to on-siteability may even be non-invertible.",
+      "followedAuthors": [
+        "Shu-Heng Shao"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2609.30363",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2609.30363"
     },
     {
       "title": "Anyon Crystallization by Statistics",
@@ -465,6 +641,22 @@
       "link": "https://arxiv.org/abs/2609.06751",
       "linkText": "arXiv",
       "pdf": "https://arxiv.org/pdf/2609.06751"
+    },
+    {
+      "title": "$G_2$-Manifolds from 4d $\\mathcal{N}=1$ Quivers",
+      "category": "recent-preprint",
+      "date": "2026-08-21",
+      "author": "Andreas P. Braun, Oscar Lewis, Matteo Sacchi, Sakura Schafer-Nameki",
+      "reference": "arXiv:2608.21238",
+      "subject": "hep-th, math.DG",
+      "abstract": "Inspired by quantum field-theoretic constructions of 4d $\\mathcal{N}=1$ quiver gauge theories that flow to superconformal field theories (SCFTs), we construct 7d manifolds of $G_2$-holonomy, which geometrically engineer these quivers in M-theory. Field theoretically, the 4d quivers are obtained by flux torus compactifications of 6d $\\mathcal{N}=(1,0)$ SCFTs. The 6d theory compactified on a circle gives rise to a 5d KK-theory, which has a geometric realization as M-theory on a non-compact elliptically fibered Calabi-Yau threefold. Following the field-theoretical prescription, these local geometries are fibered over a circle to realize (topological) $G_2$-holonomy manifolds. We carry this out concretely in the case of the rank 1 E-string theory and its 4d quivers and construct new families of $G_2$-holonomy spaces.",
+      "followedAuthors": [
+        "Sakura Schafer-Nameki"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2608.21238",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2608.21238"
     },
     {
       "title": "Note on proliferation transitions of non-Abelian anyons",
@@ -531,6 +723,22 @@
       "pdf": "https://arxiv.org/pdf/2608.18199"
     },
     {
+      "title": "Proliferation Transitions for Non-Abelian Anyons",
+      "category": "recent-preprint",
+      "date": "2026-08-12",
+      "author": "Sakura Schafer-Nameki, Yunqin Zheng, Andrea Antinucci",
+      "reference": "arXiv:2608.12303",
+      "subject": "cond-mat.str-el, hep-th, math.QA, quant-ph",
+      "abstract": "We construct phase transitions that proliferate condensable anyons in general 2+1d topological orders, including non-abelian ones. The central tool that provides a systematic approach to this question is the Symmetry Topological Field Theory (SymTFT). For a given topological order, we identify the relevant symmetry from the transparent lines generated by the condensable anyons, and thereby realize the topological order in terms of a 3+1d SymTFT sandwich. The proliferation phase transition is realized by coupling scalar fields to the anyons purely on the symmetry boundary of the SymTFT. We illustrate the construction for abelian theories, as well as non-abelian ones, $D(S_3)$ and $SU(2)_k$ Chern-Simons theories, and extend it to anomalous anyons.",
+      "followedAuthors": [
+        "Sakura Schafer-Nameki"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2608.12303",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2608.12303"
+    },
+    {
       "title": "Particle-Vortex Duality of Hydrodynamics",
       "category": "recent-preprint",
       "date": "2026-08-03",
@@ -545,6 +753,54 @@
       "link": "https://arxiv.org/abs/2608.02732",
       "linkText": "arXiv",
       "pdf": "https://arxiv.org/pdf/2608.02732"
+    },
+    {
+      "title": "Fermionic Villain model with exact lattice chiral symmetries",
+      "category": "recent-preprint",
+      "date": "2026-08-03",
+      "author": "Zhiyao Lu, Shu-Heng Shao",
+      "reference": "arXiv:2608.02728",
+      "subject": "hep-th, cond-mat.str-el, hep-lat",
+      "abstract": "We present a fermionic lattice Hamiltonian that exactly realizes the $\\mathrm{U(1)}_\\mathrm{L}\\times \\mathrm{U(1)}_\\mathrm{R}$ global symmetry and the associated chiral anomalies of a massless Dirac fermion in 1+1 dimensions. The construction couples Villain bosons to a Kitaev chain of Majorana fermions, where the bosonic fields are essential for evading Nielsen-Ninomiya-type no-go theorems. For two copies of our model, we realize the anomaly-free $\\mathrm{U(1)}_{3450}$ global symmetry and construct symmetric boundary conditions. We analytically demonstrate symmetric mass generation by mapping the symmetry-preserving six-fermion interactions to fermion bilinear terms using fermionic T-duality. Finally, by gauging general anomaly-free global symmetries, we obtain a broad class of lattice chiral gauge theories. As nontrivial applications, we compute the mass spectra of the lattice Schwinger model and the 3450 gauge theory, finding agreement with the corresponding continuum results.",
+      "followedAuthors": [
+        "Shu-Heng Shao"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2608.02728",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2608.02728"
+    },
+    {
+      "title": "Shape of Wigner Crystals and Hole Self-Doping in a Mexican-Hat Dispersion",
+      "category": "recent-preprint",
+      "date": "2026-07-31",
+      "author": "Minho Luke Kim, Xiao-Gang Wen",
+      "reference": "arXiv:2608.00170",
+      "subject": "cond-mat.str-el, cond-mat.mes-hall",
+      "abstract": "We study Wigner crystals (WCs) induced by a strong Coulomb interaction from the ring-like Fermi surface of a Mexican-hat dispersion $ε_k= c_2k^2+c_4k^4$. We design orbital shape in order to minimize the energy of the WC, and find that a low ground-state energy requires an orbital shape with a depletion of electrons near $k=0$. To capture the Coulomb-induced correlations, we include a Jastrow factor as well as a factor describing the correlation between electrons and doped vacancies. Using variational Monte Carlo calculations, we calibrate the effective band parameters $c_2$ and $c_4$ to reproduce the two transitions observed experimentally as the electron density is lowered: from a spin-valley-polarized Fermi liquid with a disk-like Fermi surface, to one with a ring-like Fermi surface, and finally to a WC. We find that, even with an optimized orbital shape that depletes electrons near $k=0$, a WC with hole self-doping near $k=0$ can still be energetically favorable near the WC transition, provided that the electron-vacancy correlation is included. We also estimate the dispersion of the doped hole.",
+      "followedAuthors": [
+        "Xiao-Gang Wen"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2608.00170",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2608.00170"
+    },
+    {
+      "title": "Non-Invertible Symmetries Mixing with Witt Non-Trivial Quantum Cellular Automata",
+      "category": "recent-preprint",
+      "date": "2026-07-23",
+      "author": "Kansei Inamura, Oskar Wojdel, Lukasz Fidkowski, Sakura Schafer-Nameki",
+      "reference": "arXiv:2607.21698",
+      "subject": "quant-ph, cond-mat.str-el, hep-th, math.QA",
+      "abstract": "Self-dualities and the stacking of symmetry-protected topological (SPT) phases are basic operations on quantum many-body systems. For a $\\mathbb{Z}_p$ one-form symmetry in 3+1d these correspond to the Kramers-Wannier-Wegner duality $S$, which is the gauging operation underlying non-invertible duality symmetries, and the stacking of a 1-form symmetry SPT $T$. In the continuum, they form a central extension of $PSL(2,\\mathbb{Z}_4)$ for $p=2$, and of $SL(2,\\mathbb{Z}_p)$ for odd primes $p$, whose central elements are invertible theories with purely gravitational response. These central extensions are governed by a twisted, graded generalization of the Witt group of abelian anyon theories, which we determine. For $p=2$ the resulting group is the single-qubit Clifford group, with duality and entangler acting as the Hadamard and phase gates. We realize this entire structure microscopically as quantum cellular automata (QCA) acting on a certain local operator algebra associated with a spin lattice Hilbert space on a cubic lattice. Specifically, our local operator algebra is built by starting with all local operators commuting with a $\\mathbb{Z}_p$ 1-form symmetry, and taking the quotient by all the (local) 1-form symmetry generators. The central elements can always be extended to the full tensor product algebra with a uniquely defined QCA class. For $p=2$ they are generated by the non-trivial semion QCA, and for odd prime $p$ they are generated by the non-trivial $\\mathbb{Z}_p$ Clifford QCA. Consequently the lattice fusion rules reproduce the continuum ones only up to these QCAs and lattice translations, giving rise to fusion rules refined by QCAs.",
+      "followedAuthors": [
+        "Sakura Schafer-Nameki"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2607.21698",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2607.21698"
     },
     {
       "title": "Bosonic SPT and invertible phases and its relation to Steenrod's problem",
@@ -577,6 +833,22 @@
       "link": "https://arxiv.org/abs/2607.12023",
       "linkText": "arXiv",
       "pdf": "https://arxiv.org/pdf/2607.12023"
+    },
+    {
+      "title": "Holographic Theory of Mixed-Dimensional Statistics and Conservation-Encoding Hopping-Operator Algebras",
+      "category": "recent-preprint",
+      "date": "2026-07-09",
+      "author": "Hanyu Xue, Xiao-Gang Wen",
+      "reference": "arXiv:2607.08583",
+      "subject": "cond-mat.str-el, hep-th, quant-ph",
+      "abstract": "We develop a general framework for the statistics of mixed-dimensional excitations subject to intertwined conservation laws, extending the familiar Fermi statistics with conserved particle number. We define statistics microscopically through a \\emph{hopping-operator algebra}: a local operator subalgebra (LOsA) generated by operators that locally move or deform excitations while preserving the conservation law. Nontrivial statistics arise when this subalgebra is nontrivial. We first focus on LOsAs that encode \\emph{pointed} conservation laws. These give rise to invertible excitations, whose fusion rules are exactly those of the symmetry defects of a higher group $\\cG$. For such $\\cG$-conserved excitations in $d$-dimensional space, we show that the corresponding LOsA -- and hence the statistics it defines -- is classified by a cohomology class $[ω] \\in H^{d+2}(B\\cG;\\R/\\Z)$, where changing $[ω]$ by a coboundary corresponds merely to a rephasing of the local operators. We further provide a holographic realization: excitations with this prescribed conservation law and statistics live on the boundary of a $\\cG$ higher-group gauge theory in $(d+1)$-dimensional space, twisted by $[ω]$. More generally, non-pointed conservation laws and the associated statistics of non-invertible excitations are defined by a pair: a LOsA together with its excitation-complex representation. This is equivalent to the pair consisting of a LOsA and its Hilbert-space representation, which is the data defining a generalized symmetry. Consequently, non-pointed conservation laws and their statistics in $d$-dimensional space are classified by fusion $d$-categories, just as generalized symmetries are. The higher-group results above are the fully-pointed special cases of this more general classification.",
+      "followedAuthors": [
+        "Xiao-Gang Wen"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2607.08583",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2607.08583"
     },
     {
       "title": "Theory of Spinful Relativistic Superfluids",
@@ -627,6 +899,22 @@
       "pdf": "https://arxiv.org/pdf/2606.12540"
     },
     {
+      "title": "Infinite-Order Lattice Chiral Anomalies and CPT",
+      "category": "recent-preprint",
+      "date": "2026-06-10",
+      "author": "Elijah Lew-Smith, Salvatore D. Pace, Shu-Heng Shao",
+      "reference": "arXiv:2606.12510",
+      "subject": "hep-th, cond-mat.str-el, hep-lat",
+      "abstract": "A key property of a global symmetry's anomaly is its order: the smallest integer $n$ for which the diagonal symmetry of the $n$-copy system is anomaly-free. While many familiar lattice anomalies have finite order, perturbative anomalies in the continuum$-$those captured by Feynman diagrams$-$have infinite order. In this paper, we show that the Onsager symmetry, a lattice realization of the chiral symmetry of a 1+1d massless Dirac fermion, has an order-two anomaly. However, imposing lattice CPT symmetry enhances this anomaly from order two to infinite order, yielding a lattice chiral symmetry structure that more faithfully matches the continuum chiral anomaly. We also discuss the corresponding 2+1d symmetry-protected topological phases for these infinite-order lattice anomalies.",
+      "followedAuthors": [
+        "Shu-Heng Shao"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2606.12510",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2606.12510"
+    },
+    {
       "title": "Vestigial Nematic Order at Zero Temperature in Two-Dimensional Frustrated Quantum Antiferromagnets",
       "category": "recent-preprint",
       "date": "2026-05-29",
@@ -641,6 +929,38 @@
       "link": "https://arxiv.org/abs/2606.00211",
       "linkText": "arXiv",
       "pdf": "https://arxiv.org/pdf/2606.00211"
+    },
+    {
+      "title": "Twin Algebras: Condensable Algebras beyond Anyons",
+      "category": "recent-preprint",
+      "date": "2026-05-29",
+      "author": "Yuhan Gai, Sakura Schafer-Nameki, Alison Warman",
+      "reference": "arXiv:2605.31602",
+      "subject": "cond-mat.str-el, hep-th, math.QA",
+      "abstract": "Condensable algebras in 2+1d non-chiral topological orders characterize gapped boundary conditions and interfaces. Applied to the Symmetry Topological Field Theory, they allow classification of symmetric gapped phases and impose sharp constraints on possible phase transitions. A condensable algebra is specified not only by its underlying set of anyons, which end on the boundary or interface, but also by its algebra structure. We introduce the concept of twin condensable algebras, which have the same anyon decomposition, but inequivalent algebra structure. We revisit the classification of condensable algebras in $\\mathcal{Z}(\\text{Vec}_G^ω)$, i.e. in group-theoretical topological orders for finite groups $G$ with anomaly $ω$. In this context we are able to identify twin algebras that arise from different mechanisms, such as subgroup data, SPT cocycles, and symmetry actions. In particular, we construct infinite families of examples of twins from so-called Gassmann triples, and exhibit cases in which the reduced topological orders are inequivalent despite having identical anyon content. Physically, twin algebras describe distinct symmetric phases that have isomorphic spaces of ground states, but inequivalent order parameters. Such twin phases never exhibit relative spontaneous symmetry breaking, and can be used to construct phase transitions without hidden symmetry breaking, which are intrinsically beyond Landau transitions.",
+      "followedAuthors": [
+        "Sakura Schafer-Nameki"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2605.31602",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2605.31602"
+    },
+    {
+      "title": "Twin Phases: Intrinsic Deconfined Quantum Criticality",
+      "category": "recent-preprint",
+      "date": "2026-05-29",
+      "author": "Alison Warman, Yuhan Gai, Sakura Schafer-Nameki",
+      "reference": "arXiv:2605.31601",
+      "subject": "cond-mat.str-el, hep-th, math.CT, quant-ph",
+      "abstract": "We introduce the concept of twin phases for a symmetry $\\mathcal{S}$, defined as inequivalent phases, whose order parameters are part of the same generalized charge under $\\mathcal{S}$. Stable, direct transitions between such twin phases are never spontaneous-symmetry-breaking transitions, even after (partially) gauging the initial symmetry $\\mathcal{S}$: they are phase transitions without hidden symmetry breaking. We illustrate this with an (anomalous) finite group symmetry in 1+1d, which exhibits such intrinsically beyond Landau transition, i.e. an intrinsically Deconfined Quantum Critical Point (DQCP).",
+      "followedAuthors": [
+        "Sakura Schafer-Nameki"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2605.31601",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2605.31601"
     },
     {
       "title": "Spontaneous breaking of non-invertible symmetries and duality to beyond-Landau transitions",
@@ -705,6 +1025,22 @@
       "link": "https://arxiv.org/abs/2604.16137",
       "linkText": "arXiv",
       "pdf": "https://arxiv.org/pdf/2604.16137"
+    },
+    {
+      "title": "Lattice chiral symmetry from bosons in 3+1d",
+      "category": "recent-preprint",
+      "date": "2026-04-07",
+      "author": "Zhiyao Lu, Sahand Seifnashri, Shu-Heng Shao",
+      "reference": "arXiv:2604.06307",
+      "subject": "hep-th, cond-mat.str-el, hep-lat",
+      "abstract": "We present a solvable Hamiltonian that realizes an exact lattice chiral $U(1)_V \\times U(1)_A$ symmetry. Nielsen-Ninomiya-type no-go theorems are evaded by using lattice bosons rather than fermions. The continuum limit is a compact boson field theory with an axion-like coupling. The $U(1)_V$ symmetry shifts the scalar, while $U(1)_A$ acts on local operators associated with short axion strings and is transmuted into a higher-form symmetry in the continuum limit. We demonstrate the chiral anomaly by showing that the lattice theta angle is shifted by an axial rotation when $U(1)_V$ is gauged. Gauging either $U(1)_V$ or $U(1)_A$ leads to lattice non-invertible and 2-group symmetries, respectively, matching the continuum picture.",
+      "followedAuthors": [
+        "Shu-Heng Shao"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2604.06307",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2604.06307"
     },
     {
       "title": "A Guide to Symmetric Mass Generation in Lattice-QCD",
@@ -801,6 +1137,1534 @@
       "link": "https://arxiv.org/abs/2603.24671",
       "linkText": "arXiv",
       "pdf": "https://arxiv.org/pdf/2603.24671"
+    },
+    {
+      "title": "On thermalization in many-body classical Floquet systems",
+      "category": "recent-preprint",
+      "date": "2026-03-13",
+      "author": "Anton Kapustin",
+      "reference": "arXiv:2603.13631",
+      "subject": "cond-mat.stat-mech, math-ph, nlin.CD",
+      "abstract": "It is expected that a generic closed many-body system prepared in a well-behaved initial state and subjected to a periodic drive will eventually thermalize, i.e. approach the state of maximal entropy. This property, while compatible with and even demanded by the physical intuition, is much stronger than ergodicity or mixing and is difficult to justify mathematically. We describe an infinite set of classical many-body Floquet systems of algebraic origin for which thermalization of very general initial states can be proved. For example, we show that a Gibbs state of any sufficiently uniform local differentiable Hamiltonian heats up to infinite temperature at long times. We show that in agreement with the physical intuition, the only obstruction to thermalization is the existence of local observables which are periodic in time.",
+      "followedAuthors": [
+        "Anton Kapustin"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2603.13631",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2603.13631"
+    },
+    {
+      "title": "Regge's Inferno",
+      "category": "recent-preprint",
+      "date": "2026-03-10",
+      "author": "Zohar Komargodski, Alessio Miscioscia, Fedor K. Popov",
+      "reference": "arXiv:2603.10197",
+      "subject": "hep-th",
+      "abstract": "We study large-spin operators in conformal field theories (CFTs) in spacetime dimensions $d>2$ by placing the theory on appropriate pp-wave backgrounds. We show that these geometries admit Heisenberg-group symmetries, and that these symmetries, combined with locality of quantum fields on such spacetimes, impose strong constraints on the asymptotic spectrum in the large-spin limit. The pp-wave backgrounds probe both the small-twist regime, corresponding to the Regge or light-cone bootstrap, and a strongly coupled regime of large twist. Finally, we demonstrate that causality (or the requirement that the energy be bounded from below) leads to a new unitarity bound in $3+1$ dimensions.",
+      "followedAuthors": [
+        "Zohar Komargodski"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2603.10197",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2603.10197"
+    },
+    {
+      "title": "Evidence of intertwined pair density and charge density wave orders in UTe2",
+      "category": "recent-preprint",
+      "date": "2026-03-09",
+      "author": "Zhen Zhu, Yudi Huang, Julian May-Mann, Kaiming Liu, Zheyu Wu, Shanta R. Saha, Johnpierre Paglione, Alexander G. Eaton, Andrej Cabala, Michal Vališka, Eduardo Fradkin, Vidya Madhavan",
+      "reference": "arXiv:2603.08688",
+      "subject": "cond-mat.supr-con, cond-mat.str-el",
+      "abstract": "The strongly correlated spin-triplet superconductor UTe2 hosts an unusual landscape of magnetic-field-sensitive charge density wave (CDW) phases, positioning it as a compelling system for studying intertwined electronic orders. A central challenge is determining whether the observed charge modulations arise from a triplet pair density wave (PDW) order and, if so, how the anisotropic magnetic field response of triplet superconductivity is manifested in the CDW response. Here, using a scanning tunneling microscope equipped with a vector magnetic field, we systematically investigate the evolution and interrelation of distinct CDW orders. Complementing the previously identified incommensurate CDW peaks (qi=1,2,3), we resolve an additional set of nondispersive modulations (pi=1,2,3 and h1,2) with distinct temperature and magnetic field dependencies. The pi CDW peaks vanish near Tc, while the qi peaks survive well above Tc but are progressively suppressed by magnetic field in an anisotropic manner. The critical fields of the qi peaks mirror the directional hierarchy of Hc2, which suggests a PDW is present above the bulk Tc. This is consistent with a Landau free-energy picture where PDWs with wavevectors pi form above the bulk Tc, leading to composite CDW orders with wavevector qi. Below Tc, the coupling of PDWs and uniform superconductivity leads to the pi CDWs. Together, these findings establish UTe2 as a rare platform where both the parent PDW and descendant orders are directly resolved, enabling access to both the fundamental and emergent manifestations of PDW physics.",
+      "followedAuthors": [
+        "Eduardo Fradkin"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2603.08688",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2603.08688"
+    },
+    {
+      "title": "Proliferation transitions from a topological phase in $2+1$ dimensions",
+      "category": "recent-preprint",
+      "date": "2026-02-27",
+      "author": "Meng Cheng, Nathan Seiberg",
+      "reference": "arXiv:2603.00245",
+      "subject": "cond-mat.str-el, hep-th",
+      "abstract": "We consider phase transitions out of a general topological phase in $2+1$ dimensions. We assume that the transition is triggered by a single Abelian anyon, which becomes light near the transition and whose worldlines proliferate after the transition. (This proliferation is often referred to as ``condensation.'') We describe the transition using a continuum field theory obtained by coupling the corresponding topological quantum field theory (TQFT) to a single complex scalar field associated with this anyon. With these assumptions, we find the most general relativistic field theory for such a transition. Even though for a given TQFT and a choice of anyon, there are infinitely many such field theories, the transition theory depends on only a single additional integer parameter. We analyze all these theories, their global symmetries, and their phases. In generic cases, the theory after the transition can be related to the original one via an Abelian hierarchy construction. In special cases, the theory after the transition is gapless, and with a particular deformation, it is related to the original TQFT by gauging an anomaly-free one-form global symmetry. We also explore the enrichment of this setup by a global U(1) symmetry. In some cases, enriching the original TQFT is incompatible with the full transition theory. Finally, we demonstrate our construction with many specific examples.",
+      "followedAuthors": [
+        "Nathan Seiberg",
+        "Meng Cheng"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2603.00245",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2603.00245"
+    },
+    {
+      "title": "Entanglement negativity in decohered topological states",
+      "category": "recent-preprint",
+      "date": "2026-02-18",
+      "author": "Kang-Le Cai, Meng Cheng",
+      "reference": "arXiv:2602.16597",
+      "subject": "cond-mat.str-el, hep-th, quant-ph",
+      "abstract": "We investigate universal entanglement signatures of mixed-state phases obtained by decohering pure-state topological order (TO), focusing on topological corrections to logarithmic entanglement negativity and mutual information: topological entanglement negativity (TEN) and topological mutual information (TMI). For Abelian TOs under decoherence, we develop a replica field-theory framework based on a doubled-state construction that relates TEN and TMI to the quantum dimensions of domain-wall defects between decoherence-induced topological boundary conditions, yielding general expressions in the strong-decoherence regime. We further compute TEN and TMI exactly for decohered $G$-graded string-net states, including cases with non-Abelian anyons. We interpret the results within the strong one-form-symmetry framework for mixed-state TOs: TMI probes the total quantum dimension of the emergent premodular anyon theory, whereas TEN detects only its modular part.",
+      "followedAuthors": [
+        "Meng Cheng"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2602.16597",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2602.16597"
+    },
+    {
+      "title": "Strong-to-Weak Symmetry Breaking in Open Quantum Systems: From Discrete Particles to Continuum Hydrodynamics",
+      "category": "recent-preprint",
+      "date": "2026-02-17",
+      "author": "Jacob Hauser, Kaixiang Su, Hyunsoo Ha, Jerome Lloyd, Thomas G. Kiely, Romain Vasseur, Sarang Gopalakrishnan, Cenke Xu, Matthew P. A. Fisher",
+      "reference": "arXiv:2602.16045",
+      "subject": "quant-ph, cond-mat.stat-mech",
+      "abstract": "We explore the onset of spontaneous strong-to-weak symmetry breaking (SW-SSB) under U(1)-symmetric (i.e., charge-conserving) open-system dynamics. We define this phenomenon for quantum states and classical probability distributions, and explore it in three complementary models, one of which exhibits nontrivial quantum coherence at short times. Our main conclusions are as follows. In one dimension, the strong symmetry is not spontaneously broken at any finite time; however, correlators probing strong-to-weak symmetry breaking develop order on length scales that grow linearly in time, parametrically faster than charge diffusion. We provide numerical evidence for this scaling in multiple distinct probes of SW-SSB, and derive it from a field-theory analysis. Moreover, we relate this scaling to the problem of inferring the charge inside a subregion by measuring its surroundings, and construct explicit decoding protocols that illustrate its origin. In two dimensions, field theory and numerical simulations support a finite-time Berezinskii-Kosterlitz-Thouless-like SW-SSB transition. Within continuum hydrodynamics, by contrast, SW-SSB happens at infinitesimal time in two or more dimensions. The SW-SSB transition time can thus be interpreted as marking the emergence of a continuum hydrodynamic description, or (more precisely) the timescale beyond which non-hydrodynamic information such as discrete particle worldlines can no longer be inferred. We support this picture by analyzing a model in which we exploit SW-SSB to derive a classical stochastic hydrodynamic description from the underlying quantum dynamics.",
+      "followedAuthors": [
+        "Cenke Xu"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2602.16045",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2602.16045"
+    },
+    {
+      "title": "Average Categorical Symmetries in One-Dimensional Disordered Systems",
+      "category": "recent-preprint",
+      "date": "2026-02-09",
+      "author": "Yabo Li, Meng Cheng, Ruochen Ma",
+      "reference": "arXiv:2602.09083",
+      "subject": "cond-mat.dis-nn, cond-mat.stat-mech, cond-mat.str-el",
+      "abstract": "We study one-dimensional disordered systems with average non-invertible symmetries, where quenched disorder may locally break part of the symmetry while preserving it upon disorder averaging. A canonical example is the random transverse-field Ising model, which at criticality exhibits an average Kramers-Wannier duality. We consider the general setting in which the full symmetry is described by a $G$-graded fusion category $\\mathcal{B}$, whose identity component $\\mathcal{A}$ remains exact, while the components with nontrivial $G$-grading are realized either exactly or only on average. We develop a topological holographic framework that encodes the symmetry data of the 1D system in a 2D topological order $\\mathcal{Z}[\\mathcal{A}]$ (the Drinfeld center of $\\mathcal{A}$), enriched by an exact or, respectively, average $G$ symmetry. Within this framework, we obtain a complete classification of anomalies and average symmetry-protected topological (SPT) phases: when the components with nontrivial $G$-grading are realized only on average, the symmetry is anomaly-free if and only if $\\mathcal{Z}[\\mathcal{A}]$ admits a magnetic Lagrangian algebra that is invariant under the permutation action of $G$ on anyons. When an anomaly is present, we show that the ground state of a single disorder realization is long-range entangled with probability one in the thermodynamic limit, and is expected to exhibit power-law Griffiths singularities in the low-energy spectrum. Finally, we present an explicit, exactly solvable lattice model based on a symmetry-enriched string-net construction. It yields trivial ground state ensemble in the anomaly-free case, and exhibits exotic low-energy behavior in the presence of an average anomaly.",
+      "followedAuthors": [
+        "Meng Cheng"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2602.09083",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2602.09083"
+    },
+    {
+      "title": "Boundary critical phenomena in the quantum Ashkin-Teller model",
+      "category": "recent-preprint",
+      "date": "2026-01-23",
+      "author": "Yifan Liu, Natalia Chepiga, Yoshiki Fukusumi, Masaki Oshikawa",
+      "reference": "arXiv:2601.16951",
+      "subject": "cond-mat.str-el, hep-th, quant-ph",
+      "abstract": "We investigate the boundary critical phenomena of the one-dimensional quantum Ashkin-Teller model using boundary conformal field theory and density matrix renormalization group (DMRG) simulations. Based on the $\\mathbb{Z}_2$-orbifold of the $c=1$ compactified boson boundary conformal field theory, we construct microscopic lattice boundary terms that renormalize to the stable conformal boundary conditions, utilizing simple current extensions and the underlying $\\mathrm{SU}(2)$ symmetry to explicitly characterize the four-state Potts point. We validate these theoretical identifications via finite-size spectroscopy of the lattice energy spectra, confirming their consistency with $D_4$ symmetry and Kramers-Wannier duality. Finally, we discuss the boundary renormalization group flows among these identified fixed points to propose a global phase diagram for the boundary criticality.",
+      "followedAuthors": [
+        "Masaki Oshikawa"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2601.16951",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2601.16951"
+    },
+    {
+      "title": "Trapping $\\tfrac{h}{2e}$ Flux in Metals",
+      "category": "recent-preprint",
+      "date": "2026-01-14",
+      "author": "Zohar Komargodski, Fedor K. Popov",
+      "reference": "arXiv:2601.09847",
+      "subject": "cond-mat.str-el, hep-th",
+      "abstract": "We report on a new flux quantization phenomenon in metals. We study the response of normal metals to the presence of localized magnetic flux. We find that, due to backreaction effects, the metal traps 0 flux or $\\tfrac{h}{2e}$ flux (half flux). We exhibit this effect both for metals pierced by magnetic solenoids and metals wrapping a magnetic solenoid. In the latter case we demonstrate the trapping of magnetic flux analytically. Furthermore, we find that as the solenoid is adiabatically turned off, a logarithmically enhanced localized equilibrium current persists, reflecting perfect defect-diamagnetism of the Fermi gas.",
+      "followedAuthors": [
+        "Zohar Komargodski"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2601.09847",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2601.09847"
+    },
+    {
+      "title": "Duality and Axion Wormholes",
+      "category": "recent-preprint",
+      "date": "2026-01-04",
+      "author": "Edward Witten",
+      "reference": "arXiv:2601.01587",
+      "subject": "hep-th",
+      "abstract": "The prototype of a Euclidean wormhole solution of Einstein gravity coupled to matter is the axion wormhole in four spacetime dimensions. In this primarily expository article, we spell out some details about this construction. The axion wormhole has a semiclassical description, found in the original paper [1], in which the matter system is a two-form gauge field B with three-form field strength H=dB. The two-form is dual to a massless scalar, but the wormhole does not have a semiclassical description in terms of the scalar. There is no contradiction here as the duality between the two-form and the scalar is not a simple transformation of classical fields but involves, in Euclidean signature, a Poisson resummation of the sum over fluxes. Because of the need for this Poisson resummation, the scalar field cannot be treated semiclassically in the wormhole throat. Nonetheless, it is straightforward to compute the effective action derived from the wormhole in the scalar (or two-form) language, recovering standard claims.",
+      "followedAuthors": [
+        "Edward Witten"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2601.01587",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2601.01587"
+    },
+    {
+      "title": "Tori, Klein Bottles, and Modulo 8 Parity/Time-reversal Anomalies of 2+1d Staggered Fermions",
+      "category": "recent-preprint",
+      "date": "2026-01-03",
+      "author": "Nathan Seiberg, Wucheng Zhang",
+      "reference": "arXiv:2601.01191",
+      "subject": "hep-th, cond-mat.str-el, hep-lat",
+      "abstract": "We study the symmetries of lattice staggered fermions in 2+1d. Using the symmetries, we can place the system on any sheared torus or Klein bottle. These different backgrounds provide diagnostics of various 't Hooft anomalies associated with the crystalline symmetries. We then compare the lattice model to its continuum limit. The symmetries of the lattice system are mapped in a nontrivial way to the symmetries of the continuum theories. Using this map, we match the 't Hooft anomalies on the lattice and the continuum. Along the way, we develop a general formalism to study Hamiltonian lattice models on nontrivial, compact, flat spaces.",
+      "followedAuthors": [
+        "Nathan Seiberg"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2601.01191",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2601.01191"
+    },
+    {
+      "title": "Chaos and thermalization in Clifford-Floquet dynamics",
+      "category": "recent-preprint",
+      "date": "2026-01-01",
+      "author": "Anton Kapustin, Daniil Radamovich",
+      "reference": "arXiv:2601.00511",
+      "subject": "quant-ph, cond-mat.stat-mech, math-ph",
+      "abstract": "We study the ergodic properties of a unitary Floquet dynamics arising from the repeated application of a translationally-invariant Clifford Quantum Cellular Automata to an infinite system of qubits in d dimensions. One expects that if the QCA does not exhibit any periodicity, a generic initial state of qubits will thermalize, that is, approach the infinite-temperature state. We show that this is true for many classes of states, both pure and mixed. In particular, this is true for all initial states that are short-range entangled and close to the equilibrium state. We also point out a subtle distinction between weak and strong thermalization.",
+      "followedAuthors": [
+        "Anton Kapustin"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2601.00511",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2601.00511"
+    },
+    {
+      "title": "Generalized Level-Rank Duality, Holomorphic Conformal Field Theory, and Non-Invertible Anyon Condensation",
+      "category": "recent-preprint",
+      "date": "2025-12-30",
+      "author": "Clay Cordova, Diego García-Sepúlveda, Jeffrey A. Harvey",
+      "reference": "arXiv:2512.24419",
+      "subject": "hep-th, cond-mat.str-el, math.QA",
+      "abstract": "We study the interplay between holomorphic conformal field theory and dualities of 3D topological quantum field theories generalizing the paradigm of level-rank duality. A holomorphic conformal field theory with a Kac-Moody subalgebra implies a topological interface between Chern-Simons gauge theories. Upon condensing a suitable set of anyons, such an interface yields a duality between topological field theories. We illustrate this idea using the $c=24$ holomorphic theories classified by Schellekens, which leads to a list of novel sporadic dualities. Some of these dualities necessarily involve condensation of anyons with non-abelian statistics, i.e. gauging non-invertible one-form global symmetries. Several of the examples we discover generalize from $c=24$ to an infinite series. This includes the fact that Spin$(n^{2})_{2}$ is dual to a twisted dihedral group gauge theory. Finally, if $-1$ is a quadratic residue modulo $k$, we deduce the existence of a sequence of holomorphic CFTs at central charge $c=2(k-1)$ with fusion category symmetry given by $\\mathrm{Spin}(k)_{2}$ or equivalently, the $\\mathbb{Z}_{2}$-equivariantization of a Tambara-Yamagami fusion category.",
+      "followedAuthors": [
+        "Clay Cordova"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2512.24419",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2512.24419"
+    },
+    {
+      "title": "Non-Invertible Interfaces Between Symmetry-Enriched Critical Phases",
+      "category": "recent-preprint",
+      "date": "2025-12-29",
+      "author": "Saranesh Prembabu, Shu-Heng Shao, Ruben Verresen",
+      "reference": "arXiv:2512.23706",
+      "subject": "cond-mat.str-el, cond-mat.stat-mech, hep-th, quant-ph",
+      "abstract": "Gapless quantum phases can become distinct when internal symmetries are enforced, in analogy with gapped symmetry-protected topological (SPT) phases. However, this distinction does not always lead to protected edge modes, raising the question of how the bulk-boundary correspondence is generalized to gapless cases. We propose that the spatial interface between gapless phases -- rather than their boundaries -- provides a more robust fingerprint. We show that whenever two 1+1d conformal field theories (CFTs) differ in symmetry charge assignments of local operators or twisted sectors, any symmetry-preserving spatial interface between the theories must flow to a non-invertible defect. We illustrate this general result for different versions of the Ising CFT with $\\mathbb{Z}_2 \\times \\mathbb{Z}_2^T$ symmetry, obtaining a complete classification of allowed conformal interfaces. When the Ising CFTs differ by nonlocal operator charges, the interface hosts 0+1d symmetry-breaking phases with finite-size splittings scaling as $1/L^3$, as well as continuous phase transitions between them. For general gapless phases differing by an SPT entangler, the interfaces between them can be mapped to conformal defects with a certain defect 't Hooft anomaly. This classification also gives implications for higher-dimensional examples, including symmetry-enriched variants of the 2+1d Ising CFT. Our results establish a physical indicator for symmetry-enriched criticality through symmetry-protected interfaces, giving a new handle on the interplay between topology and gapless phases.",
+      "followedAuthors": [
+        "Shu-Heng Shao"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2512.23706",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2512.23706"
+    },
+    {
+      "title": "Rényi-like entanglement probe of the chiral central charge",
+      "category": "recent-preprint",
+      "date": "2025-12-23",
+      "author": "Julian Gass, Michael Levin",
+      "reference": "arXiv:2512.20608",
+      "subject": "cond-mat.str-el, quant-ph",
+      "abstract": "We propose a ground state entanglement probe for gapped, two-dimensional quantum many-body systems that involves taking powers of reduced density matrices in a particular geometric configuration. This quantity, which we denote by $ω_{α,β}$, is parameterized by two positive real numbers $α, β$, and can be seen as a ``Rényi-like\" generalization of the modular commutator -- another entanglement probe proposed as a way to compute the chiral central charge from a bulk wave function. We obtain analytic expressions for $ω_{α,β}$ for gapped ground states of non-interacting fermion Hamiltonians as well as ground states of string-net models. In both cases, we find that $ω_{α,β}$ takes a universal value related to the chiral central charge. For integer values of $α$ and $β$, our quantity $ω_{α,β}$ can be expressed as an expectation value of permutation operators acting on an appropriate replica system, providing a natural route to measuring $ω_{α,β}$ in numerical simulations and potentially, experiments.",
+      "followedAuthors": [
+        "Michael Levin"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2512.20608",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2512.20608"
+    },
+    {
+      "title": "On holography with ADE singularities",
+      "category": "recent-preprint",
+      "date": "2025-12-23",
+      "author": "Sunjin Choi, Yuji Tachikawa",
+      "reference": "arXiv:2512.20307",
+      "subject": "hep-th",
+      "abstract": "We study aspects of the AdS/CFT correspondence for $\\mathcal{N}=4$ $U(N)$ super Yang-Mills theory on $S^3/Γ$, where $Γ\\subset SU(2)$ is a finite subgroup, leading to an ADE singularity in the bulk AdS geometry. We show that a large vacuum degeneracy arises from the choice of gauge holonomy on $S^3/Γ$. On the gravity side, we argue that the bulk ADE singularity supports topological degrees of freedom responsible for this degeneracy. We then provide a holographic derivation of a corresponding large vacuum degeneracy for class S theories of type $U(N)$, showing that these topological degrees of freedom admit an effective description in terms of a three-dimensional level-$N$ Chern-Simons theory, whose gauge group $\\mathsf{G}$ is determined by $Γ$. Finally, we discuss how the one-form symmetries of the $\\mathcal{N}=4$ super Yang-Mills theory are realized on the Chern-Simons theory side.",
+      "followedAuthors": [
+        "Yuji Tachikawa"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2512.20307",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2512.20307"
+    },
+    {
+      "title": "Minimal Models of Entropic Order",
+      "category": "recent-preprint",
+      "date": "2025-12-08",
+      "author": "Xiaoyang Huang, Zohar Komargodski, Andrew Lucas, Fedor K. Popov, Tin Sulejmanpasic",
+      "reference": "arXiv:2512.07980",
+      "subject": "cond-mat.stat-mech, hep-th",
+      "abstract": "Due to entropic effects, it is possible that generic high-energy states of a quantum or classical system are ordered. This leads to spontaneous symmetry breaking at arbitrarily high temperatures. We present minimal models of entropic order that arise from very simple interactions. Our main examples are the Arithmetic Ising Model (AIM) and its quantum analogue, where usual Ising spins are replaced by non-negative integers. Using a large-flavor expansion together with numerical simulations, we find that the high-temperature phase is ordered in the classical and quantum models. We also introduce classical gas models whose interactions drive the system to a crystal at high temperatures.",
+      "followedAuthors": [
+        "Zohar Komargodski"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2512.07980",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2512.07980"
+    },
+    {
+      "title": "Symmetry-Enforced Fermi Surfaces",
+      "category": "recent-preprint",
+      "date": "2025-12-03",
+      "author": "Minho Luke Kim, Salvatore D. Pace, Shu-Heng Shao",
+      "reference": "arXiv:2512.04150",
+      "subject": "cond-mat.str-el, cond-mat.mes-hall, hep-lat, hep-th",
+      "abstract": "We identify a symmetry that enforces every symmetric model to have a Fermi surface. These symmetry-enforced Fermi surfaces are realizations of a powerful form of symmetry-enforced gaplessness. The symmetry we construct exists in quantum lattice fermion models on a $d$-dimensional Bravais lattice, and is generated by the on-site U(1) fermion number symmetry and non-on-site Majorana translation symmetry. The resulting symmetry group is a noncompact Lie group closely related to the Onsager algebra. For a symmetry-enforced Fermi surface $\\cal{F}$, we show that this UV symmetry group always includes the subgroup of the ersatz Fermi liquid L$_{\\cal{F}}$U(1) symmetry group formed by even functions ${f(\\mathbf{k})\\in\\mathrm{U}(1)}$ with ${\\mathbf{k}\\in \\cal{F}}$. Furthermore, we comment on the topology of these symmetry-enforced Fermi surfaces, proving they generically exhibit at least two noncontractible components (i.e., open orbits).",
+      "followedAuthors": [
+        "Shu-Heng Shao"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2512.04150",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2512.04150"
+    },
+    {
+      "title": "Effect of slowly decaying long-range interactions on topological qubits",
+      "category": "recent-preprint",
+      "date": "2025-12-02",
+      "author": "Etienne Granet, Michael Levin",
+      "reference": "arXiv:2512.02809",
+      "subject": "quant-ph",
+      "abstract": "We study the robustness of topological ground state degeneracy to long-range interactions in quantum many-body systems. We focus on slowly decaying two-body interactions that scale like a power-law $1/r^α$ where $α$ is smaller than the spatial dimension; such interactions are beyond the reach of known stability theorems which only apply to short-range or rapidly decaying long-range perturbations. Our main result is a computation of the ground state splitting of several toy models, which are variants of the 1D Ising model $H = -\\sum_i σ^z_i σ^z_{i+1} + λ\\sum_{ij} |i-j|^{-α} σ^x_i σ^x_j$ with $λ> 0$ and $α< 1$. In one variant, the power-law interactions are replaced by all-to-all interactions, $\\fracλ{4 L^α}\\sum_{ij} σ^x_i σ^x_j$, where $L$ is the system size, while the other variant has true power-law interactions but is built out of quantum rotors rather than Ising spins. These models are also closely connected to the Kitaev p-wave wire model with power-law density-density interactions. In these examples, we find that the splitting $δ$ scales like a stretched exponential $δ\\sim \\exp(-C L^{\\frac{1+α}{2}})$. Our computations are based on path integral techniques similar to the instanton method introduced by Coleman. We also study another toy model with long-range interactions that can be analyzed without path integral techniques and that shows similar behavior.",
+      "followedAuthors": [
+        "Michael Levin"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2512.02809",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2512.02809"
+    },
+    {
+      "title": "Precise computation of universal corner entanglement entropy at 2+1 dimension: From Ising to Gaussian quantum critical points",
+      "category": "recent-preprint",
+      "date": "2025-11-29",
+      "author": "Ben Lee-Yeung Ngai, Justin Tim-Lok Chau, Junchen Rong, Meng Cheng, Yuan Da Liao, Zi Yang Meng",
+      "reference": "arXiv:2512.00382",
+      "subject": "cond-mat.str-el, cond-mat.stat-mech, quant-ph",
+      "abstract": "Computing the subleading logarithmic term in the entanglement entropy (EE) of (2+1)d quantum many-body systems remains a significant challenge, despite its central role in revealing universal information about quantum states and quantum critical points (QCPs). Building on recent algorithmic advances that enable the stable calculation of EE as an exponential observable~\\cite{zhouIncremental2024,zhangIntegral2024,liaoExtracting2024}, we develop a {\\it bubble basis} projector quantum Monte Carlo (QMC) algorithm to precisely and efficiently compute the universal corner of EE at QCPs in a (2+1)d square-lattice transverse-field Ising model augmented with a four-body interaction. Turning on this interaction allows us to trace an Ising critical line, reaching the tricritical point, and then a line of first-order phase transition. In (2+1)d, the tricritical point is described by the Gaussian theory, where a theoretical calculation of the corner logarithmic term in the 2nd Rényi entropy term is available~\\cite{UniversalCasini2007}. Our QMC results are in quantitative agreement with this theoretical value, providing a highly nontrivial benchmark of the algorithm. Furthermore, we also study the Rényi EE at the Ising critical line and on the first-order transition line, obtaining results consistent with theoretical expectations. These findings establish the long-sought connection between the universal values of an exactly solvable limit and those of a strongly correlated regime at (2+1)d.",
+      "followedAuthors": [
+        "Meng Cheng"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2512.00382",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2512.00382"
+    },
+    {
+      "title": "Generalized Landau Paradigm for quantum phases and phase transitions",
+      "category": "recent-preprint",
+      "date": "2025-11-24",
+      "author": "Xie Chen",
+      "reference": "arXiv:2511.19793",
+      "subject": "hep-th, cond-mat.str-el, quant-ph",
+      "abstract": "The Landau paradigm is a central dogma for understanding phase and phase transitions in condensed matter systems, yet for decades it has been known that a variety of quantum phases exist beyond the framework. Is there a more general framework that provides a systematic understanding of phase and phase transitions in quantum many-body systems? Recent developments of the notion of generalized symmetry and generalized gauging seem to point to a way to generalize the Landau Paradigm. In this essay, we discuss how `beyond Landau' phases and phase transitions can be captured by a generalized Landau paradigm in terms of the breaking of generalized symmetries, often induced by the generalized gauging procedure facilitated through the topological holography formalism. We also discuss what needs to be understood to make the generalized Landau paradigm useful in the study of quantum phase and phase transitions.",
+      "followedAuthors": [
+        "Xie Chen"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2511.19793",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2511.19793"
+    },
+    {
+      "title": "Chiral gapped states are universally non-topological",
+      "category": "recent-preprint",
+      "date": "2025-10-27",
+      "author": "Xiang Li, Ting-Chun Lin, Yahya Alavirad, John McGreevy",
+      "reference": "arXiv:2510.23720",
+      "subject": "cond-mat.str-el, hep-th, quant-ph",
+      "abstract": "We propose an operator generalization of the Li-Haldane conjecture regarding the entanglement Hamiltonian of a disk in a 2+1D chiral gapped groundstate. The logic applies to regions with sharp corners, from which we derive several universal properties regarding corner entanglement. These universal properties follow from a set of locally-checkable conditions on the wavefunction. We also define a quantity $(\\mathfrak{c}_{\\text{tot}})_{\\text{min}}$ that reflects the robustness of corner entanglement contributions, and show that it provides an obstruction to a gapped boundary. One reward from our analysis is that we can construct a local gapped Hamiltonian within the same chiral gapped phase from a given wavefunction; we conjecture that it is closer to the low-energy renormalization group fixed point than the original parent Hamiltonian. Our analysis of corner entanglement reveals the emergence of a universal conformal geometry encoded in the entanglement structure of bulk regions of chiral gapped states that is not visible in topological field theory. Our formalism also gives an explanation of the modular commutator formula for the chiral central charge.",
+      "followedAuthors": [
+        "John McGreevy"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2510.23720",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2510.23720"
+    },
+    {
+      "title": "Morphological computational capacity of Physarum polycephalum",
+      "category": "recent-preprint",
+      "date": "2025-10-22",
+      "author": "Suyash Bajpai, Aviva Lucas-DeMott, Nirosha J Murugan, Michael Levin, Philip Kurian",
+      "reference": "arXiv:2510.19976",
+      "subject": "quant-ph, physics.bio-ph",
+      "abstract": "While computational capacity limits of the universe and carbon-based life have been estimated, a stricter bound for aneural organisms has not been established. Physarum polycephalum, a unicellular, multinucleated amoeba, is capable of complex problem-solving despite lacking neurons. By analyzing growth dynamics from high-throughput imaging data-more than 500 samples tracked every 30 minutes for one to three days-across two distinct Physarum strains under diverse biological conditions, we map morphological evolution to information processing. We revisit the Margolus-Levitin bound that constrains maximum computation rates, deriving a correction for these driven-dissipative living systems. Time-series data of Physarum's morphology-quantified through area, perimeter, circularity, and fractal dimension-enable the determination of upper bounds on the number of logical operations achievable through its hydromechanical, chemical, kinetic, and quantum-optical degrees of freedom. The time-series trends of these morphological quantities remain statistically robust across 100,000 bootstrap resamples at both 95% and 99.5% confidence intervals. Based on the organism's explored areas and characteristic values of ATP available for work, the computational capacity of Physarum is upper bounded by ${\\sim}10^{33}$ logical operations in 24 hours, scaling linearly in the non-equilibrium steady state. This framework enables comparison of the computational capacities of life, exploiting either classical or quantum degrees of freedom.",
+      "followedAuthors": [
+        "Michael Levin"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2510.19976",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2510.19976"
+    },
+    {
+      "title": "Non-invertible bosonic chiral symmetry on the lattice",
+      "category": "recent-preprint",
+      "date": "2025-10-20",
+      "author": "Lukasz Fidkowski, Cenke Xu, Carolyn Zhang",
+      "reference": "arXiv:2510.17969",
+      "subject": "cond-mat.str-el, hep-th",
+      "abstract": "In this work we realize the 3 + 1 dimensional non-invertible ${\\mathbb{Z}}_N$ chiral symmetry generator as an operator in a many body lattice Hilbert space. A crucial ingredient in our construction is the use of infinite dimensional $U(1)$ rotor site Hilbert spaces. Specifically, our Hilbert space is that of a $U(1)$ lattice gauge theory coupled to a charge $1$ scalar in the Villain formulation, which allows for direct access to monopoles and for a simple definition of a magnetic ${\\mathbb{Z}}_N$ one-form symmetry $Z^{(1)}_m$ , at the lattice Hamiltonian level. We construct the generator of the ${\\mathbb{Z}}_N$ chiral symmetry as as a unitary operator in the subspace of $Z^{(1)}_m$-invariant states, and show that it cannot be extended to the entire Hilbert space while preserving locality and unitarity. Using a lattice-level duality based on gauging $Z^{(1)}_m$, we find a dual description of this subspace, as the subspace of a charge $1/N$ gauge theory invariant under an electric one-form symmetry $Z^{(1)}_e$. We show that in this dual formulation, the chiral symmetry generator does extend unitarily to the entire Hilbert space, but has a mixed anomaly with the $Z^{(1)}_e$ symmetry.",
+      "followedAuthors": [
+        "Cenke Xu"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2510.17969",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2510.17969"
+    },
+    {
+      "title": "Emergent Mixed States for Baby Universes and Black Holes",
+      "category": "recent-preprint",
+      "date": "2025-10-07",
+      "author": "Jonah Kudler-Flam, Edward Witten",
+      "reference": "arXiv:2510.06376",
+      "subject": "hep-th, quant-ph",
+      "abstract": "We examine the behavior of sequences of states in the large $N$ limit of AdS/CFT duality in cases in which the bulk duals involve baby universes or black holes. Such sequences generally fail to converge as pure states. Under suitable conditions, such as diverging coarse-grained entropy, they can converge to mixed states for the large $N$ algebra, as in the case of black holes. For Euclidean preparations that produce baby universes, the sequences do not converge, due to wormhole contributions, and so these states cannot admit large $N$ limits. Nevertheless, appropriate averaging over $N$ can lead to convergence to a mixed state. The associated algebras have nontrivial commutants, which can possibly be interpreted as operators in the baby universe.",
+      "followedAuthors": [
+        "Edward Witten"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2510.06376",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2510.06376"
+    },
+    {
+      "title": "Transition between 2D Symmetry Protected Topological Phases on a Klein Bottle",
+      "category": "recent-preprint",
+      "date": "2025-10-01",
+      "author": "Vibhu Ravindran, Bowen Yang, Xie Chen",
+      "reference": "arXiv:2510.00587",
+      "subject": "cond-mat.str-el",
+      "abstract": "Manifolds with nontrivial topology play an essential role in the study of topological phases of matter. In this paper, we study the nontrivial symmetry response of the $2+1$D $Z_2$ symmetry-protected topological (SPT) phase when the system is put on a non-orientable manifold -- the Klein bottle. In particular, we find that when a symmetry defect is inserted along the orientation-reversing cycle of the Klein bottle, the ground state of the system gets an extra charge. This response remains well defined at transition points into the trivial SPT phase, resulting in an exact two-fold degeneracy in the ground state independent of the system size. We demonstrate the symmetry response using exactly solvable lattice models of the SPT phase, as well as numerical work across the transition. We explore the connection of this result to the modular transformation of the $3+1$D $Z_2$ gauge theory and the emergent nature of the parity symmetry in the $Z_2$ SPT phase.",
+      "followedAuthors": [
+        "Xie Chen"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2510.00587",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2510.00587"
+    },
+    {
+      "title": "Where Non-Invertible Symmetries End: Twist Defects for Electromagnetic Duality",
+      "category": "recent-preprint",
+      "date": "2025-09-25",
+      "author": "Shu-Heng Shao, Siwei Zhong",
+      "reference": "arXiv:2509.21279",
+      "subject": "hep-th, cond-mat.str-el",
+      "abstract": "We study novel conformal twist defects in 4d Maxwell theory, around which electric and magnetic fields are exchanged. These are codimension-2 defects living at the end of topological defects for certain non-invertible global symmetries. We determine the operator spectrum of the twist defect by solving classical electromagnetic wave equations subject to a twisted boundary condition. Using techniques from defect CFT, we show that correlation functions of these defect operators factorize into two sectors: a universal generalized free-field sector, and a chiral current sector analogous to edge modes in Chern-Simons theory. In a similar setup, we also revisit the twist fields attached to non-invertible line defects in the 2d compact boson CFT. We discuss a defect 't Hooft anomaly involving a chiral $O(2)$ symmetry, highlighting its dynamical implications.",
+      "followedAuthors": [
+        "Shu-Heng Shao"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2509.21279",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2509.21279"
+    },
+    {
+      "title": "Anyonic membranes and Pontryagin statistics",
+      "category": "recent-preprint",
+      "date": "2025-09-17",
+      "author": "Yitao Feng, Hanyu Xue, Yuyang Li, Meng Cheng, Ryohei Kobayashi, Po-Shen Hsin, Yu-An Chen",
+      "reference": "arXiv:2509.14314",
+      "subject": "quant-ph, cond-mat.str-el, hep-th, math-ph, math.QA",
+      "abstract": "Anyons, unique to two spatial dimensions, underlie extraordinary phenomena such as the fractional quantum Hall effect, but their generalization to higher dimensions has remained elusive. The topology of Eilenberg-MacLane spaces constrains the loop statistics to be only bosonic or fermionic in any dimension. In this work, we introduce the novel anyonic statistics for membrane excitations in four dimensions. Analogous to the $\\mathbb{Z}_N$-particle exhibiting $\\mathbb{Z}_{N\\times \\gcd(2,N)}$ anyonic statistics in two dimensions, we show that the $\\mathbb{Z}_N$-membrane possesses $\\mathbb{Z}_{N\\times \\gcd(3,N)}$ anyonic statistics in four dimensions. Given unitary volume operators that create membrane excitations on the boundary, we propose an explicit 56-step unitary sequence that detects the membrane statistics. We further analyze the boundary theory of $(5{+}1)$D 1-form $\\mathbb{Z}_N$ symmetry-protected topological phases and demonstrate that their domain walls realize all possible anyonic membrane statistics. We then show that the $\\mathbb{Z}_3$ subgroup persists in all higher dimensions. In addition to the standard fermionic $\\mathbb{Z}_2$ membrane statistics arising from Stiefel-Whitney classes, membranes also exhibit $\\mathbb{Z}_3$ statistics associated with Pontryagin classes. We explicitly verify that the 56-step process detects the nontrivial $\\mathbb{Z}_3$ statistics in 5, 6, and 7 spatial dimensions. Moreover, in 7 and higher dimensions, the statistics of membrane excitations stabilize to $\\mathbb{Z}_{2} \\times \\mathbb{Z}_{3}$, with the $\\mathbb{Z}_3$ sector consistently captured by this process.",
+      "followedAuthors": [
+        "Meng Cheng"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2509.14314",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2509.14314"
+    },
+    {
+      "title": "On a long exact sequence of groups of equivalence classes of 2d $\\mathcal{N}{=}(0,1)$ SQFTs",
+      "category": "recent-preprint",
+      "date": "2025-09-15",
+      "author": "Yuji Tachikawa",
+      "reference": "arXiv:2509.12481",
+      "subject": "hep-th",
+      "abstract": "Strongly motivated by a mathematical result by Lin and Yamashita (arXiv:2412.02298), we describe a long exact sequence formed by groups of equivalence classes of two-dimensional $\\mathcal{N}{=}(0,1)$ supersymmetric quantum field theories (SQFTs) with and without $SU(2)$ symmetry. As an application, we study chiral fermions in heterotic compactifications with $SU(2)$ symmetry of level one to four dimensions, and show that each even-dimensional irreducible representation of $SU(2)$ appears even times, assuming the conjectural relation between topological modular forms and SQFTs. This implies the absence of the Witten anomaly, but contains more information than that.",
+      "followedAuthors": [
+        "Yuji Tachikawa"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2509.12481",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2509.12481"
+    },
+    {
+      "title": "Emanant and emergent symmetry-topological-order from low-energy spectrum",
+      "category": "recent-preprint",
+      "date": "2025-09-10",
+      "author": "Zixin Jessie Chen, Ömer M. Aksoy, Cenke Xu, Xiao-Gang Wen",
+      "reference": "arXiv:2509.08879",
+      "subject": "cond-mat.str-el, hep-th",
+      "abstract": "Low-energy emanant and emergent symmetries can be anomalous, higher-group, or non-invertible. A way to systematically capture the properties of such symmetries is through the topological orders in one-higher dimension, known as symmetry topological orders (symTOs). Consequently, identifying the emergent or emanant symmetry of a system is not simply a matter of determining its group structure, but rather of computing the corresponding symTO. In this work, we develop a method to compute the symTO of 1+1D systems by analyzing their low-energy spectra under closed boundary conditions with all possible symmetry twists. Following this approach, we show that the gapless antiferromagnetic (AF) spin-$1/2$ Heisenberg model possesses an exact emanant symTO corresponding to the $D_8$ quantum double, when the global symmetry is restricted to the $\\mathbb{Z}_2^x \\times \\mathbb{Z}_2^z$ subgroup of the $SO(3)$ spin-rotation symmetry and lattice translations. Moreover, this model exhibits an emergent $SO(4)$ symmetry, whose exact components are described jointly by automorphisms of the $D_8$ quantum double and the $SO(3)$ spin-rotations. Using the condensable algebras of the emanant symTO, we further identify several other phases that may be accessible by modifying interactions among low-energy excitations: (1) a gapped dimer phase, connected to the AF phase via an $SO(4)$ rotation, (2) a commensurate collinear ferromagnetic phase that breaks translation by one site with a $ω\\sim k^2$ mode, (3) an incommensurate, translation-symmetric ferromagnetic phase featuring both $ω\\sim k^2$ and $ω\\sim k$ modes, (4) and an incommensurate ferromagnetic phase that breaks translation by one site with both $ω\\sim k^2$ and $ω\\sim k$ modes.",
+      "followedAuthors": [
+        "Xiao-Gang Wen",
+        "Cenke Xu"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2509.08879",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2509.08879"
+    },
+    {
+      "title": "A systematic search for conformal field theories in very small spaces",
+      "category": "recent-preprint",
+      "date": "2025-09-04",
+      "author": "Xiang Li, Ting-Chun Lin, John McGreevy",
+      "reference": "arXiv:2509.04596",
+      "subject": "hep-th, cond-mat.stat-mech, cond-mat.str-el, quant-ph",
+      "abstract": "Groundstates of 1+1d conformal field theories (CFTs) satisfy a local entropic condition called the vector fixed point equation. This condition is surprisingly well satisfied by groundstates of quantum critical lattice models even at small system sizes. We perform a search in the space of states of very small systems (four qubits and four qutrits) and examine the states that satisfy this condition. By reconstructing a local Hamiltonian from each state, we are able to identify many of these solutions with known CFTs; others are gapped fixed points, or involve large relevant perturbations, and others are CFTs we have not yet identified. These ideas are also useful for identifying continuous quantum phase transitions in a given family of Hamiltonians, and for identifying the nature of the critical theory in small systems.",
+      "followedAuthors": [
+        "John McGreevy"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2509.04596",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2509.04596"
+    },
+    {
+      "title": "On anomalies and fermionic unitary operators",
+      "category": "recent-preprint",
+      "date": "2025-09-03",
+      "author": "Masaki Okada, Shutaro Shimamura, Yuji Tachikawa, Yi Zhang",
+      "reference": "arXiv:2509.02989",
+      "subject": "hep-th",
+      "abstract": "We point out that fermionic unitary operators which anticommute among themselves appear in various situations in quantum field theories with anomalies in the Hamiltonian formalism. To illustrate, we give multiple derivations of the fact that position-dependent $U(1)$ transformations of two-dimensional theories with $U(1)$ symmetry of odd level are fermionic when the winding number is odd. We then relate this mechanism to the anomalies of the discrete $\\mathbb{Z}_N \\subset U(1)$ symmetry, whose description also crucially uses unitary operators which are fermionic. We also show that position-dependent $SU(2)$ transformations of four-dimensional theories with $SU(2)$ symmetry with Witten anomaly are fermionic and anticommute among themselves when the winding number is odd.",
+      "followedAuthors": [
+        "Yuji Tachikawa"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2509.02989",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2509.02989"
+    },
+    {
+      "title": "LSM and CPT",
+      "category": "recent-preprint",
+      "date": "2025-08-23",
+      "author": "Nathan Seiberg, Shu-Heng Shao, Wucheng Zhang",
+      "reference": "arXiv:2508.17115",
+      "subject": "hep-th, cond-mat.str-el, math-ph, quant-ph",
+      "abstract": "We study a number of 1+1d lattice models with anti-unitary symmetries that simultaneously reflect space and reverse time. Some of these symmetries are anomalous, leading to Lieb-Schultz-Mattis-type constraints, thus excluding a trivially gapped phase. Examples include a mod 8 anomaly in the Majorana chain and various mod 2 anomalies in the spin chain. In some cases, there is an exact, non-anomalous lattice symmetry that flows in the continuum to CPT. In some other cases, the CPT symmetry of the continuum theory is emergent or absent. Depending on the model, the anomaly of the lattice model is matched in the continuum in different ways. In particular, it can be mapped to an emergent anomaly of an emanant symmetry.",
+      "followedAuthors": [
+        "Nathan Seiberg",
+        "Shu-Heng Shao"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2508.17115",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2508.17115"
+    },
+    {
+      "title": "Defect Anomalies, a Spin-Flux Duality, and Boson-Kondo Problems",
+      "category": "recent-preprint",
+      "date": "2025-08-20",
+      "author": "Zohar Komargodski, Fedor K. Popov, Brandon C. Rayhaun",
+      "reference": "arXiv:2508.14963",
+      "subject": "hep-th, cond-mat.str-el",
+      "abstract": "We show that the infrared phases of certain line defects in 2+1d quantum field theories are determined by anomalies, including anomalies in the space of defect coupling constants, together with a symmetry-refined corollary of the $g$-theorem. As an example, we prove that the spin-$1/2$ impurities in the 2+1d critical $O(2)$ and $O(3)$ models (known respectively as the Halon and Boson-Kondo defects) flow to non-trivial conformal line operators in the IR, and we supply evidence that the same extends to all spin $s$. We also argue that, under particle/vortex duality, the Halon impurity is exchanged with the $π$-flux vortex line leading to spin-flux duality, a proposal which we test with a detailed matching of symmetries, anomalies, and phases. Finally, we write down quantum lattice Hamiltonians which can be used to test our predictions, and give an argument on the lattice in favor of spin-flux duality.",
+      "followedAuthors": [
+        "Zohar Komargodski"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2508.14963",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2508.14963"
+    },
+    {
+      "title": "On invariants of two-dimensional minimally supersymmetric field theories",
+      "category": "recent-preprint",
+      "date": "2025-08-06",
+      "author": "Yuji Tachikawa, Kazuya Yonekura",
+      "reference": "arXiv:2508.04916",
+      "subject": "hep-th",
+      "abstract": "We construct a new invariant of two-dimensional $\\mathcal{N}{=}(0,1)$ supersymmetric quantum field theories (SQFTs), under a couple of assumptions on the general properties of such SQFTs motivated by considerations in heterotic string theory. This new invariant is in addition to the known 'primary' invariants, i.e. the ordinary elliptic genus and the mod-2 elliptic genus, and the known 'secondary' invariant, which can be considered as an SQFT analog of the Atiyah-Patodi-Singer $η$-invariant when its continuous variation vanishes. We also define a spectral invariant of supercharge more generally by the integration of the expectation value of the supercharge over the fundamental region of $\\mathrm{ SL}(2,\\mathbb{Z})$. With this spectral invariant, we construct a spectral pairing which can be used to systematically detect all the known invariants, including the new one we introduce in the first half of this paper.",
+      "followedAuthors": [
+        "Yuji Tachikawa"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2508.04916",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2508.04916"
+    },
+    {
+      "title": "Sequential Circuits as Generalized Symmetry on the Lattice",
+      "category": "recent-preprint",
+      "date": "2025-07-30",
+      "author": "Nathanan Tantivasadakarn, Xinyu Liu, Xie Chen",
+      "reference": "arXiv:2507.22394",
+      "subject": "cond-mat.str-el, hep-th, quant-ph",
+      "abstract": "Generalized symmetry extends the usual notion of symmetry to ones that are of higher-form, acting on subsystems, non-invertible, etc. The concept was defined in the field theory context using the idea of topological defects. On the lattice, an immediate consequence is that a symmetry twist is moved across the system by a sequential quantum circuit. In this paper, we ask how to deduce the full, potentially non-invertible symmetry action from the unitary sequential circuit and how the connection to sequential circuit constrains the properties of the generalized symmetries. We find that for symmetries that contain the trivial symmetry operator as a fusion outcome, which we call annihilable symmetries, the sequential circuit fully determines the symmetry action and puts various constraints on their fusion. In contrast, for unannihilable symmetries, like those whose corresponding twist is the Cheshire string, a further one-dimensional sequential circuit is needed for the full description. Matrix product operator and tensor network operator representations play an important role in our discussion.",
+      "followedAuthors": [
+        "Xie Chen"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2507.22394",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2507.22394"
+    },
+    {
+      "title": "Anomaly-free symmetries with obstructions to gauging and onsiteability",
+      "category": "recent-preprint",
+      "date": "2025-07-28",
+      "author": "Wilbur Shirley, Carolyn Zhang, Wenjie Ji, Michael Levin",
+      "reference": "arXiv:2507.21267",
+      "subject": "cond-mat.str-el, hep-th, quant-ph",
+      "abstract": "We present counterexamples to the lore that symmetries that cannot be gauged or made on-site are necessarily anomalous. Specifically, we construct unitary, internal symmetries of two-dimensional lattice models that cannot be consistently coupled to background or dynamical gauge fields or disentangled to a tensor product of on-site operators. These symmetries are nevertheless anomaly-free in the sense that they admit symmetric, gapped Hamiltonians with unique, invertible ground states. We show that symmetries of this kind are characterized by an index $[ω]\\in H^2(G,\\mathbb{Q}_+)$, where $\\mathbb{Q}_+$ is the multiplicative group of rational numbers labeling one-dimensional quantum cellular automata.",
+      "followedAuthors": [
+        "Michael Levin"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2507.21267",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2507.21267"
+    },
+    {
+      "title": "Variational Monte Carlo Optimization of Topological Chiral Superconductors",
+      "category": "recent-preprint",
+      "date": "2025-07-24",
+      "author": "Minho Luke Kim, Abigail Timmel, Xiao-Gang Wen",
+      "reference": "arXiv:2507.18582",
+      "subject": "cond-mat.str-el, cond-mat.supr-con",
+      "abstract": "We perform the variational Monte Carlo calculation for recently proposed chiral superconducting states driven by strong Coulomb interactions. We compare the resulting energetics of these electronic phases for the electron dispersion relation $E_k = c_2 k^2+c_4 k^4$. Motivated by the recent discovery of chiral superconductivity in rhombohedral graphene systems, we apply our analysis to relevant parameter regimes. We demonstrate that topological chiral superconducting phases (including a spin-unpolarized state) can be energetically favored over the spin-valley polarized Fermi liquid above the density of Wigner crystal phase. Our results show that the preference for chiral superconductivity is strongest when $c_2$ lies between zero and a negative value corresponding to a Fermi sea on the verge of forming a hole pocket around $k=0$. This finding suggests that superconductivity can arise from pure repulsive Coulomb interactions in systems with an almost flat band bottom, without relying on the pairing instability of a Fermi surface. This mechanism opens a new pathway to superconductivity beyond the conventional BCS mechanism.",
+      "followedAuthors": [
+        "Xiao-Gang Wen"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2507.18582",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2507.18582"
+    },
+    {
+      "title": "Supercurrents and (Partial) Supersymmetry in Adjoint QCD$_2$ and Its Generalizations",
+      "category": "recent-preprint",
+      "date": "2025-07-23",
+      "author": "Igor R. Klebanov, Silviu S. Pufu, Benjamin Søgaard, Edward Witten",
+      "reference": "arXiv:2507.17138",
+      "subject": "hep-th",
+      "abstract": "$1+1$-dimensional $SU(N)$ gauge theory coupled to an adjoint Majorana fermion, also known as adjoint QCD$_2$, has the surprising feature that at fermion mass $\\sqrt{\\frac{g^2 N}{2 π}}$ it exhibits supersymmetry. In this paper, we obtain a deeper insight into how the supersymmetry works by constructing the gauge invariant, Lorentz covariant supercurrent $j_{μA}$. Its conservation relies crucially on the presence of a quantum anomaly. We generalize this construction to a class of models where, in addition to an adjoint Majorana fermion of an appropriate mass, the gauge theory is coupled to some collection of massless fermions ($SU(N)$ may be replaced by a more general gauge group). In general, these models have a supersymmetric massive sector and a non-supersymmetric CFT sector [arXiv:2202.04017], but there are cases in which both sectors are supersymmetric. An example of such a gapless, fully supersymmetric model is $SU(N)$ gauge theory coupled to three adjoint Majorana fermions, of which two are massless and the third has mass $\\sqrt{\\frac{3g^2 N}{2π}}$.",
+      "followedAuthors": [
+        "Edward Witten"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2507.17138",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2507.17138"
+    },
+    {
+      "title": "Higher symmetries, anomalies, and crossed squares in lattice gauge theory",
+      "category": "recent-preprint",
+      "date": "2025-07-22",
+      "author": "Anton Kapustin, Lev Spodyneiko",
+      "reference": "arXiv:2507.16966",
+      "subject": "hep-th, cond-mat.str-el, math-ph, math.QA",
+      "abstract": "We examine higher-form symmetries of quantum lattice gauge theories through the lens of homotopy theory and operator algebras. We show that in the operator-algebraic approach both higher-form symmetries and 't Hooft anomalies arise from considering restrictions of symmetry transformations to spatial regions. The data of these restrictions are naturally packaged into a higher group. For example, for gauge theories in two spatial dimensions, this information is encoded in a crossed square of groups, which is an algebraic model of a 3-group. In general, we propose that higher groups appear in lattice models and QFT as crossed n-cubes of groups via a nonabelian version of the Cech construction.",
+      "followedAuthors": [
+        "Anton Kapustin"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2507.16966",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2507.16966"
+    },
+    {
+      "title": "The Symmetry Taco: Equivalences between Gapped, Gapless, and Mixed-State SPTs",
+      "category": "recent-preprint",
+      "date": "2025-07-07",
+      "author": "Marvin Qi, Ramanjit Sohal, Xie Chen, David T. Stephen, Abhinav Prem",
+      "reference": "arXiv:2507.05335",
+      "subject": "cond-mat.str-el, hep-th, quant-ph",
+      "abstract": "Symmetry topological field theory (SymTFT), or topological holography, offers a unifying framework for describing quantum phases of matter and phase transitions between them. While this approach has seen remarkable success in describing gapped and gapless pure-state phases in $1+1$d, its applicability to open quantum systems remains entirely unexplored. In this work, we propose a natural extension of the SymTFT framework to mixed-state phases by introducing the \\textit{symmetry taco}: a bilayer topological order in $2+1$d whose folded geometry naturally encapsulates both strong and weak symmetries of the $1+1$d theory. We use this perspective to identify a series of correspondences, including a one-to-one map between intrinsically gapless SPTs (igSPTs) and certain gapped SPTs, and a mapping between igSPTs and intrinsically average SPTs (iASPTs) arising in $1+1$d mixed states. More broadly, our framework yields a classification of short-range correlated $G$-symmetric Choi states in $1+1$d, provides a route for systematically generating mixed-state SPTs via local decoherence of igSPTs, and allows us to identify a new mixed-state ``anomaly\". Besides folding in mixed-state phases into the SymTFT paradigm, the symmetry taco opens new avenues for exploring dualities, anomalies, and non-equilibrium criticality in mixed-state quantum matter.",
+      "followedAuthors": [
+        "Xie Chen"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2507.05335",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2507.05335"
+    },
+    {
+      "title": "Localization of strings on group manifolds",
+      "category": "recent-preprint",
+      "date": "2025-06-24",
+      "author": "Sameer Murthy, Edward Witten",
+      "reference": "arXiv:2506.20028",
+      "subject": "hep-th, math.NT, math.RT",
+      "abstract": "We compute the partition function of the WZW model with target a compact Lie group $G$ by adapting a method used by Choi and Takhtajan to compute the heat kernel of the group manifold. The basic idea is to compute the partition function of a supersymmetric version of the WZW model using a form of supersymmetric localization and then use the fact that, since the fermions of the supersymmetric WZW model are actually decoupled from the bosons, this also determines the partition function of the purely bosonic WZW model. The result is a formula for the partition function as a sum over contributions from abelian classical solutions. We verify for $G=SU(2)$ that this formula agrees with the result for the same partition function that comes from the Weyl-Kac character formula. We extend the method of supersymmetric localization to certain related models such as the $SL(2,\\mathbb{R})$ WZW model and a Wick-rotated version of this model in which the target space is hyperbolic three-space $H_3^+$.",
+      "followedAuthors": [
+        "Edward Witten"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2506.20028",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2506.20028"
+    },
+    {
+      "title": "Bulk Excitations of Invertible Phases",
+      "category": "recent-preprint",
+      "date": "2025-06-12",
+      "author": "Wenjie Ji, David T. Stephen, Michael Levin, Xie Chen",
+      "reference": "arXiv:2506.11288",
+      "subject": "cond-mat.str-el",
+      "abstract": "Recent developments in the study of topological defects highlight the importance of understanding the multi-dimensional structure of bulk excitations inside a quantum system. When the bulk ground state is trivial, i.e. a product state, excitations on top of it are decoupled from each other and correspond to lower-dimensional phases and their defects within. In this paper, we expand the discussion to invertible phases and study the bulk excitations in, for example, SPT phases, Majorana chains, p + ip superconductors etc. We find that there is a one-to-one correspondence between bulk excitations inside a nontrivial invertible phase and those in a product state. For SPT phases, this can be shown using the symmetric Quantum Cellular Automaton that maps from the product state to the SPT state. More generally, for invertible phases realizable using the Topological Holography construction, we demonstrate the correspondence using the fact that certain gapped boundary conditions of a topological bulk state have only relative distinctions but no absolute ones.",
+      "followedAuthors": [
+        "Michael Levin",
+        "Xie Chen"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2506.11288",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2506.11288"
+    },
+    {
+      "title": "Entanglement Holography in Quantum Phases via Twisted Rényi-N Correlators",
+      "category": "recent-preprint",
+      "date": "2025-06-11",
+      "author": "Pablo Sala, Frank Pollmann, Masaki Oshikawa, Yizhi You",
+      "reference": "arXiv:2506.10076",
+      "subject": "cond-mat.str-el, quant-ph",
+      "abstract": "We introduce a holographic framework for the entanglement Hamiltonian in symmetry-protected topological (SPT) phases with area-law entanglement, whose reduced density matrix $ρ\\propto e^{-H_e}$ can be treated as a lower-dimensional mixed state. By replicating $ρ$, we reconstruct the fixed-point SPT wavefunction, establishing an exact correspondence between the bulk strange correlator of the (d+1)-dimensional SPT state and the twisted Rényi-N operator of the d-dimensional reduced density matrix. Notably, the reduced density matrix exhibits long-range or quasi-long-range order along the replica direction, revealing a universal entanglement feature in SPT phases. As a colloary, we generalized the framework of twisted Rényi-N correlator to thermal states and open quantum systems, providing an alternative formulation of the Lieb-Schultz-Mattis theorem, applicable to both closed and open systems. Finally, we extend our protocol to mixed-state SPT phases and introduce new quantum information metrics -- twisted Rényi-N correlators of the surgery operator -- to characterize the topology of mixed states.",
+      "followedAuthors": [
+        "Masaki Oshikawa"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2506.10076",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2506.10076"
+    },
+    {
+      "title": "Ordering the topological order in the fractional quantum Hall effect",
+      "category": "recent-preprint",
+      "date": "2025-05-20",
+      "author": "Meng Cheng, Seth Musser, Amir Raz, Nathan Seiberg, T. Senthil",
+      "reference": "arXiv:2505.14767",
+      "subject": "cond-mat.str-el, cond-mat.mes-hall, hep-th",
+      "abstract": "We discuss the possible topological order/topological quantum field theory of different quantum Hall systems. Given the value of the Hall conductivity, we constrain the global symmetry of the low-energy theory and its anomaly. Specifically, the one-form global symmetry and its anomaly are presented as the organizing principle of these systems. This information is powerful enough to lead to a unique minimal topological order (or a small number of minimal topological orders). Almost all of the known experimentally discovered topological orders are these minimal theories. Since this work is interdisciplinary, we made a special effort to relate to researchers with different backgrounds by providing translations between different perspectives.",
+      "followedAuthors": [
+        "Nathan Seiberg",
+        "Meng Cheng"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2505.14767",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2505.14767"
+    },
+    {
+      "title": "Symmetry Transmutation and Anomaly Matching",
+      "category": "recent-preprint",
+      "date": "2025-05-13",
+      "author": "Nathan Seiberg, Sahand Seifnashri",
+      "reference": "arXiv:2505.08618",
+      "subject": "hep-th, cond-mat.str-el",
+      "abstract": "We explore a situation where a global symmetry of the ultraviolet (UV) theory does not act faithfully on the local infrared (IR) degrees of freedom, but instead acts effectively as a higher-form symmetry. We refer to this phenomenon as symmetry transmutation, where the UV symmetry is \"transmuted\" into a higher-form symmetry in the IR. Notably, unlike emergent (accidental) symmetries, which are approximate, these symmetries are exact. We illustrate the ubiquity of this phenomenon in various continuum and lattice systems and provide examples where the 't Hooft anomalies of the UV symmetry are matched by those of the new higher-form symmetry in the IR. We also show that in certain phases and for certain energies, the UV baryon-number symmetry of one-flavor QCD is transmuted into a discrete one-form global symmetry. Finally, we compare our symmetry transmutation to the well-known phenomenon of symmetry fractionalization.",
+      "followedAuthors": [
+        "Nathan Seiberg"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2505.08618",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2505.08618"
+    },
+    {
+      "title": "Higher symmetries and anomalies in quantum lattice systems",
+      "category": "recent-preprint",
+      "date": "2025-05-07",
+      "author": "Anton Kapustin, Shixiong Xu",
+      "reference": "arXiv:2505.04719",
+      "subject": "math-ph, cond-mat.str-el, hep-th, math.QA",
+      "abstract": "We define an 't Hooft anomaly index for a group acting on a 2d quantum lattice system by finite-depth circuits. It takes values in the degree-4 cohomology of the group and is an obstruction to on-siteability of the group action. We introduce a 3-group (modeled as a crossed square) describing higher symmetries of a 2d lattice system and show that the 2d anomaly index is an obstruction for promoting a symmetry action to a morphism of 3-groups. This demonstrates that 't Hooft anomalies are a consequence of a mixing between ordinary symmetries and higher symmetries. Similarly, to any 1d lattice system we attach a 2-group (modeled as a crossed module) and interpret the Nayak-Else anomaly index as an obstruction for promoting a group action to a morphism of 2-groups. The meaning of indices of Symmetry Protected Topological states is also illuminated by higher group symmetry.",
+      "followedAuthors": [
+        "Anton Kapustin"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2505.04719",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2505.04719"
+    },
+    {
+      "title": "Chiral Gravitons on the Lattice",
+      "category": "recent-preprint",
+      "date": "2025-05-05",
+      "author": "Hernan B. Xavier, Zeno Bacciconi, Titas Chanda, Dam Thanh Son, Marcello Dalmonte",
+      "reference": "arXiv:2505.02905",
+      "subject": "cond-mat.str-el, cond-mat.mes-hall, cond-mat.quant-gas",
+      "abstract": "Chiral graviton modes are elusive excitations arising from the hidden quantum geometry of fractional quantum Hall states. It remains unclear, however, whether this picture extends to lattice models, where continuum translations are broken and additional quasiparticle decay channels arise. We present a framework in which we explicitly derive a field theory incorporating lattice chiral graviton operators within the paradigmatic bosonic Harper-Hofstadter model. Extensive numerical evidence suggests that chiral graviton modes persist away from the continuum, and are well captured by the proposed lattice operators. We identify geometric quenches as a viable experimental probe, paving the way for the exploration of chiral gravitons in near-term quantum simulation experiments.",
+      "followedAuthors": [
+        "Dam Thanh Son"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2505.02905",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2505.02905"
+    },
+    {
+      "title": "Projectification of point group symmetries with a background flux and Lieb-Schultz-Mattis theorem",
+      "category": "recent-preprint",
+      "date": "2025-05-02",
+      "author": "Yasuhiro Tada, Masaki Oshikawa",
+      "reference": "arXiv:2505.00927",
+      "subject": "cond-mat.str-el",
+      "abstract": "We discuss the Lieb-Schultz-Mattis (LSM) theorem in two-dimensional spin systems with on-site ${\\mathrm U}(1)\\rtimes {\\mathbb Z}_2$ spin rotation symmetry and point group $C_{2v}$ symmetry about a site. We ``twist\" the point group symmetry by introducing a small uniform U(1) flux to obtain a projective symmetry, similarly to the familiar magnetic translation symmetry. The LSM theorem is proved in presence of the flux and then it is demonstrated that the theorem holds also for the flux-free system. Besides, the uniform flux enables us to show the LSM theorem for the time-reversal symmetry and the site-centered $C_2$-rotation symmetry.",
+      "followedAuthors": [
+        "Masaki Oshikawa"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2505.00927",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2505.00927"
+    },
+    {
+      "title": "Charge order-driven nematicity in the nickel-pnictide superconductor Ba$_{1-x}$Sr$_x$Ni$_2$As$_2$",
+      "category": "recent-preprint",
+      "date": "2025-04-17",
+      "author": "Thomas Johnson, Camille Bernal-Choban, Sangjun Lee, Xuefei Guo, Stella Sun, John Collini, Christopher Eckberg, Johnpierre Paglione, Rafael M. Fernandes, Eduardo Fradkin, Peter Abbamonte",
+      "reference": "arXiv:2504.13133",
+      "subject": "cond-mat.str-el, cond-mat.mtrl-sci",
+      "abstract": "Nematic order refers to the spontaneous breaking of rotational symmetry while preserving translational symmetry. First identified in classical liquid crystals, nematic order arises from the collective alignment of anisotropic molecules. Its quantum counterpart, electronic nematicity, has been observed in a variety of quantum materials, ranging from unconventional superconductors to kagome metals. Despite its prevalence, there is no universal understanding of the conditions under which nematic order occurs. Electronic nematicity is most firmly established in iron-based superconductors, where it is understood to be a consequence of vestigial spin density wave (SDW) order. However, direct evidence for nematicity arising from other types of order are lacking. Here, we report direct evidence for charge-order-driven electronic nematicity in Ba$_{1-x}$Sr$_x$Ni$_2$As$_2$, a nickel-based analog of the iron pnictides known to exhibit charge density wave (CDW) order. Using x-ray diffraction under applied uniaxial strain, we observe a pronounced symmetry-breaking response-up to $\\sim 50 \\%$-in the intensity of incommensurate CDW Bragg peaks, even at small strain levels ($ε_{xy} \\sim 10^{-3}$). This effect occurs within the same region of the phase diagram where a giant nematic susceptibility is observed in transport measurements. These results provide direct evidence that long-range CDW order can drive nematic behavior in quantum materials.",
+      "followedAuthors": [
+        "Eduardo Fradkin"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2504.13133",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2504.13133"
+    },
+    {
+      "title": "A critical theory for solidification of a liquid Fermi liquid",
+      "category": "recent-preprint",
+      "date": "2025-04-09",
+      "author": "Tarun Grover, John McGreevy",
+      "reference": "arXiv:2504.06508",
+      "subject": "cond-mat.str-el, cond-mat.quant-gas, cond-mat.stat-mech, hep-th",
+      "abstract": "We give a simple description of a zero-temperature phase transition between a liquid metal and a solid. The critical point has a Fermi surface as well as a Bose surface, a sphere in momentum space of gapless bosonic excitations. We find a fixed point of the renormalization group governing such a non-Fermi liquid, using an expansion in the codimension of both the Fermi and Bose surfaces. We comment on the nature of the solid phase and possible physical realizations.",
+      "followedAuthors": [
+        "John McGreevy"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2504.06508",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2504.06508"
+    },
+    {
+      "title": "Higgsing Transitions from Topological Field Theory & Non-Invertible Symmetry in Chern-Simons Matter Theories",
+      "category": "recent-preprint",
+      "date": "2025-04-04",
+      "author": "Clay Cordova, Diego García-Sepúlveda, Kantaro Ohmori",
+      "reference": "arXiv:2504.03614",
+      "subject": "hep-th, cond-mat.str-el",
+      "abstract": "Non-invertible one-form symmetries are naturally realized in (2+1)d topological quantum field theories. In this work, we consider the potential realization of such symmetries in (2+1)d conformal field theories, investigating whether gapless systems can exhibit similar symmetry structures. To that end, we discuss transitions between topological field theories in (2+1)d which are driven by the Higgs mechanism in Chern-Simons matter theories. Such transitions can be modeled mesoscopically by filling spacetime with a lattice-shaped domain wall network separating the two topological phases. Along the domain walls are coset conformal field theories describing gapless chiral modes trapped by a locally vanishing scalar mass. In this presentation, the one-form symmetries of the transition point can be deduced by using anyon condensation to track lines through the domain wall network. Using this framework, we discuss a variety of concrete examples of non-invertible one-form symmetry in fixed-point theories. For instance, $SU(k)_{2}$ Chern-Simons theory coupled to a scalar in the symmetric tensor representation produces a transition from an $SU(k)_{2}$ phase to an $SO(k)_{4}$ phase and has non-invertible one-form symmetry $PSU(2)_{-k}$ at the fixed point. We also discuss theories with $Spin(2N)$ and $E_{7}$ gauge groups manifesting other patterns of non-invertible one-form symmetry. In many of our examples, the non-invertible one-form symmetry is not a modular invariant TQFT on its own and thus is an intrinsic part of the fixed-point dynamics.",
+      "followedAuthors": [
+        "Clay Cordova"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2504.03614",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2504.03614"
+    },
+    {
+      "title": "Entropic Order",
+      "category": "recent-preprint",
+      "date": "2025-03-28",
+      "author": "Yiqiu Han, Xiaoyang Huang, Zohar Komargodski, Andrew Lucas, Fedor K. Popov",
+      "reference": "arXiv:2503.22789",
+      "subject": "cond-mat.stat-mech, hep-th, quant-ph",
+      "abstract": "Ordered phases of matter, such as solids, ferromagnets, superfluids, or quantum topological order, typically only exist at low temperatures. Despite this conventional wisdom, we present explicit local models in which all such phases persist to arbitrarily high temperature. This is possible since order in one degree of freedom can enable other degrees of freedom to strongly fluctuate, leading to \"entropic order\", whereby typical high energy states are ordered. Our construction, which utilizes interacting bosons, avoids existing no-go theorems on long-range order or entanglement at high temperature. We propose a simple model for high-temperature superconductivity using these general principles.",
+      "followedAuthors": [
+        "Zohar Komargodski"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2503.22789",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2503.22789"
+    },
+    {
+      "title": "Phases with non-invertible symmetries in 1+1D $\\unicode{x2013}$ symmetry protected topological orders as duality automorphisms",
+      "category": "recent-preprint",
+      "date": "2025-03-27",
+      "author": "Ömer M. Aksoy, Xiao-Gang Wen",
+      "reference": "arXiv:2503.21764",
+      "subject": "cond-mat.str-el, hep-th, quant-ph",
+      "abstract": "We explore 1+1 dimensional (1+1D) gapped phases in systems with non-invertible symmetries, focusing on symmetry-protected topological (SPT) phases (defined as gapped phases with non-degenerate ground states), as well as SPT orders (defined as the differences between gapped/gapless phases with identical bulk excitations spectrum). For group-like symmetries, distinct SPT phases share identical bulk excitations and always differ by SPT orders. However, for certain non-invertible symmetries, we discover novel SPT phases that have different bulk excitations and thus do not differ by SPT orders. Additionally, we also study the spontaneous symmetry-breaking (SSB) phases of non-invertible symmetries. Unlike group-like symmetries, non-invertible symmetries lack the concept of subgroups, which complicates the definition of SSB phases as well as their identification. This challenge can be addressed by employing the symmetry-topological-order (symTO) framework for the symmetry. The Lagrangian condensable algebras and automorphisms of the symTO facilitate the classification of gapped phases in systems with such symmetries, enabling the analysis of both SPT and SSB phases (including those that differ by SPT orders). Finally, we apply this methodology to investigate gapless phases in symmetric systems and to study gapless phases differing by SPT orders.",
+      "followedAuthors": [
+        "Xiao-Gang Wen"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2503.21764",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2503.21764"
+    },
+    {
+      "title": "Effective field theory for weakly bound two-neutron halo nuclei: corrections from neutron-neutron effective range",
+      "category": "recent-preprint",
+      "date": "2025-03-24",
+      "author": "Davi B. Costa, Masaru Hongo, Dam Thanh Son",
+      "reference": "arXiv:2503.18519",
+      "subject": "nucl-th, cond-mat.quant-gas, hep-th",
+      "abstract": "Using an effective field-theoretical approach, we investigate the properties of weakly bound two-neutron halo nuclei (also known as Borromean nuclei) that do not support a low-energy $s$-wave core-neutron resonance. Extending the recently formulated effective field theory for weakly bound Borromean nuclei, we incorporate corrections arising from the effective range of neutron-neutron scattering and evaluate their impact on the mean-square radii and electromagnetic response. In particular, we compute the ratio of the matter and charge radii, the shape of the $E1$ dipole strength function, and the electric polarizability. Our results indicate that these corrections remain numerically small when the two-neutron separation energy of the Borromean nucleus is much less than 1~MeV.",
+      "followedAuthors": [
+        "Dam Thanh Son"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2503.18519",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2503.18519"
+    },
+    {
+      "title": "Stabilizer Rényi Entropy and Conformal Field Theory",
+      "category": "recent-preprint",
+      "date": "2025-03-17",
+      "author": "Masahiro Hoshino, Masaki Oshikawa, Yuto Ashida",
+      "reference": "arXiv:2503.13599",
+      "subject": "quant-ph, cond-mat.stat-mech",
+      "abstract": "Understanding universal aspects of many-body systems is one of the central themes in modern physics. Recently, the stabilizer Rényi entropy (SRE) has emerged as a computationally tractable measure of nonstabilizerness, a crucial resource for fault-tolerant universal quantum computation. While numerical results suggested that the SRE in critical states can exhibit universal behavior, its comprehensive theoretical understanding has remained elusive. In this work, we develop a field-theoretical framework for the SRE in a $(1+1)$-dimensional many-body system and elucidate its universal aspects using boundary conformal field theory. We demonstrate that the SRE is equivalent to a participation entropy in the Bell basis of a doubled Hilbert space, which can be calculated from the partition function of a replicated field theory with the interlayer line defect created by the Bell-state measurements. This identification allows us to characterize the universal contributions to the SRE on the basis of the data of conformal boundary conditions imposed on the replicated theory. We find that the SRE of the entire system contains a universal size-independent term determined by the noninteger ground-state degeneracy known as the g-factor. In contrast, we show that the mutual SRE exhibits the logarithmic scaling with a universal coefficient given by the scaling dimension of a boundary condition changing operator, which elucidates the origin of universality previously observed in numerical results. As a concrete demonstration, we present a detailed analysis of the Ising criticality, where we analytically derive the universal quantities at arbitrary Rényi indices and numerically validate them with high accuracy by employing tensor network methods. These results establish a field-theoretical approach to understanding the universal features of nonstabilizerness in quantum many-body systems.",
+      "followedAuthors": [
+        "Masaki Oshikawa"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2503.13599",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2503.13599"
+    },
+    {
+      "title": "Bras and Kets in Euclidean Path Integrals",
+      "category": "recent-preprint",
+      "date": "2025-03-17",
+      "author": "Edward Witten",
+      "reference": "arXiv:2503.12771",
+      "subject": "hep-th",
+      "abstract": "Quantum mechanics requires a hermitian inner product <~,~> -- linear in one variable, antilinear in the other -- while the inner product (~,~) that comes most naturally from Euclidean path integrals is linear in each variable. Here we discuss the relation between the two inner products. In a theory with no time-reversal or reflection symmetry, they differ by an operator that complex conjugates the wavefunction and reverses the orientation of space; in the presence of reflection and time-reversal symmetry, space is unoriented so such an operator cannot be defined, but the time-reversal symmetry T is available instead and plays the same role.",
+      "followedAuthors": [
+        "Edward Witten"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2503.12771",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2503.12771"
+    },
+    {
+      "title": "Spin of fractional quantum Hall neutral modes and \"missing states\" on a sphere",
+      "category": "recent-preprint",
+      "date": "2025-03-10",
+      "author": "Dung Xuan Nguyen, Dam Thanh Son",
+      "reference": "arXiv:2503.06914",
+      "subject": "cond-mat.str-el, cond-mat.mes-hall, hep-th",
+      "abstract": "A low-energy neutral quasiparticle in a fractional quantum Hall system appears in the latter's energy spectrum on a sphere as a series of many-body excited states labeled by the angular momentum $L$ and whose energy is a smooth function of $L$ in the limit of large sphere radius. We argue that the signature of a nonvanishing spin (intrinsic angular momentum) $s$ of the quasiparticle is the absence, in this series, of states with total angular momentum less than $s$.We reinterpret the missing of certain states, observed in an exact-diagonalization calculation of the spectrum of the $ν=7/3$ FQH state in a wide quantum well as well as in many proposed wave functions for the excited states as a consequence of the spin-2 nature of the zero-momentum magnetoroton.",
+      "followedAuthors": [
+        "Dam Thanh Son"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2503.06914",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2503.06914"
+    },
+    {
+      "title": "Disclinations, dislocations, and emanant flux at Dirac criticality",
+      "category": "recent-preprint",
+      "date": "2025-01-23",
+      "author": "Maissam Barkeshli, Christopher Fechisin, Zohar Komargodski, Siwei Zhong",
+      "reference": "arXiv:2501.13866",
+      "subject": "cond-mat.str-el, hep-th",
+      "abstract": "What happens when fermions hop on a lattice with crystalline defects? The answer depends on topological quantum numbers which specify the action of lattice rotations and translations in the low energy theory. One can understand the topological quantum numbers as a twist of continuum gauge fields in terms of crystalline gauge fields. We find that disclinations and dislocations -- defects of crystalline symmetries -- generally lead in the continuum to a certain ``emanant'' quantized magnetic flux. To demonstrate these facts, we study in detail tight-binding models whose low-energy descriptions are (2+1)D Dirac cones. Our map from lattice to continuum defects explains the crystalline topological response to disclinations and dislocations, and motivates the fermion crystalline equivalence principle used in the classification of crystalline topological phases. When the gap closes, the presence of emanant flux leads to pair creation from the vacuum with the particles and anti-particles swirling around the defect. We compute the associated currents and energy density using the tools of defect conformal field theory. There is a rich set of renormalization group fixed points, depending on how particles scatter from the defect. At half flux, there is a defect conformal manifold leading to a continuum of possible low-energy theories. We present extensive numerical evidence supporting the emanant magnetic flux at lattice defects and we test our map between lattice and continuum defects in detail. We also point out a no-go result, which implies that a single (2+1)D Dirac cone in symmetry class AII is incompatible with a commuting $C_M$ rotational symmetry with $(C_M)^M = +1$.",
+      "followedAuthors": [
+        "Zohar Komargodski"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2501.13866",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2501.13866"
+    },
+    {
+      "title": "Particle-Soliton Degeneracy in 2D Quantum Chromodynamics",
+      "category": "recent-preprint",
+      "date": "2024-12-30",
+      "author": "Clay Cordova, Diego García-Sepúlveda, Nicholas Holfester",
+      "reference": "arXiv:2412.21153",
+      "subject": "hep-th, cond-mat.str-el, math.QA",
+      "abstract": "Quantum chromodynamics in two spacetime dimensions admits a finite non-invertible symmetry described mathematically by a fusion category. This symmetry is spontaneously broken at long distances, leading to distinct vacua. When the theory has a mass gap, the spectrum is therefore characterized by particle excitations above a single vacuum and soliton sectors interpolating between vacua. We use anyon condensation and the representation theory of fusion categories to obtain exact results about this spectrum, exhibiting the allowed multiplets. Often, particles and solitons are in the same representation and therefore must have equal masses. Furthermore, the fusion category symmetry frequently implies the existence of certain stable states in the spectrum. The resulting degeneracies are encoded in quiver diagrams where nodes are vacua and arrows are excited states.",
+      "followedAuthors": [
+        "Clay Cordova"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2412.21153",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2412.21153"
+    },
+    {
+      "title": "Non-Invertible Symmetries as Condensation Defects in Finite-Group Gauge Theories",
+      "category": "recent-preprint",
+      "date": "2024-12-21",
+      "author": "Clay Cordova, Davi B. Costa, Po-Shen Hsin",
+      "reference": "arXiv:2412.16681",
+      "subject": "cond-mat.str-el, hep-th, math.QA",
+      "abstract": "In recent work, we developed a method to construct invertible and non-invertible symmetries of finite-group gauge theories as topological domain walls on the lattice. In the present work, we consider abelian and non-abelian finite-group gauge theories in general spacetime dimension, and demonstrate how to realize these symmetries as condensation defects, i.e., as suitable insertions of lower dimensional topological operators. We then compute the fusion rules and action of these symmetries using their condensation expression and the algebraic properties of the lower dimensional objects that make them. We illustrate the discussion in $\\mathbb{Z}_N$ gauge theory, where we derive the correspondence between domain walls, labeled by subgroups and actions for the doubled gauge group, and higher gauging condensation defects, labeled by subalgebras of the global symmetry. As a primary application, we obtain the condensation expression for the invertible symmetries of abelian gauge theories defined by outer automorphisms of the gauge group. We also show how to use these ideas to derive the action for certain non-abelian groups. For instance, one can obtain the action for the Dihedral group $\\mathbb{D}_4$ by gauging a swap symmetry of $\\mathbb{Z}_2\\times\\mathbb{Z}_2$ gauge theory.",
+      "followedAuthors": [
+        "Clay Cordova"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2412.16681",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2412.16681"
+    },
+    {
+      "title": "Anomalous Continuous Translations",
+      "category": "recent-preprint",
+      "date": "2024-12-19",
+      "author": "Nathan Seiberg",
+      "reference": "arXiv:2412.14434",
+      "subject": "cond-mat.str-el, hep-th, math-ph",
+      "abstract": "We discuss a large class of non-relativistic continuum field theories where the Euclidean spatial symmetry of the classical theory is violated in the quantum theory by an Adler-Bell-Jackiw-like anomaly. In particular, the continuous translation symmetry of the classical theory is broken in the quantum theory to a discrete symmetry. Furthermore, that discrete symmetry is extended by an internal symmetry, making it non-Abelian. This presentation streamlines and extends the discussion in [1]. In an Appendix, we present an elementary introduction to 't Hooft and Adler-Bell-Jackiw anomalies using a well-known system.",
+      "followedAuthors": [
+        "Nathan Seiberg"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2412.14434",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2412.14434"
+    },
+    {
+      "title": "Temperature-Resistant Order in 2+1 Dimensions",
+      "category": "recent-preprint",
+      "date": "2024-12-12",
+      "author": "Zohar Komargodski, Fedor K. Popov",
+      "reference": "arXiv:2412.09459",
+      "subject": "hep-th, cond-mat.str-el",
+      "abstract": "High temperatures are typically thought to increase disorder. Here we examine this idea in Quantum Field Theory in 2+1 dimensions. For this sake we explore a novel class of tractable models, consisting of nearly-mean-field scalars interacting with critical scalars. We identify UV-complete, local, unitary models in this class and show that symmetry breaking $\\mathbb{Z}_2 \\to \\emptyset$ occurs at any temperature in some regions of the phase diagram. This phenomenon, previously observed in models with fractional dimensions, or in the strict planar limits, or with non-local interactions, is now exhibited in a local, unitary 2+1 dimensional model with a finite number of fields.",
+      "followedAuthors": [
+        "Zohar Komargodski"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2412.09459",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2412.09459"
+    },
+    {
+      "title": "Intertwined order of generalized global symmetries",
+      "category": "recent-preprint",
+      "date": "2024-12-03",
+      "author": "Benjamin Moy, Eduardo Fradkin",
+      "reference": "arXiv:2412.02748",
+      "subject": "cond-mat.str-el, hep-th",
+      "abstract": "We investigate the interplay of generalized global symmetries in 2+1 dimensions in a lattice model that couples a $\\mathbb{Z}_N$ clock model to a $\\mathbb{Z}_N$ gauge theory via a topological interaction. This coupling binds the charges of one symmetry to the disorder operators of the other, and when these composite objects condense, they give rise to emergent generalized symmetries with mixed 't Hooft anomalies. These anomalies result in phases with ordinary symmetry breaking, topological order, and symmetry-protected topological (SPT) order, where the different types of order are not independent but intimately related. We further explore the gapped boundary states of these exotic phases and develop theories for phase transitions between them. Additionally, we extend this lattice model to incorporate a non-invertible global symmetry, which can be spontaneously broken, leading to domain walls with non-trivial fusion rules.",
+      "followedAuthors": [
+        "Eduardo Fradkin"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2412.02748",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2412.02748"
+    },
+    {
+      "title": "Topological Cosets via Anyon Condensation and Applications to Gapped $\\mathrm{\\bf{QCD_{2}}}$",
+      "category": "recent-preprint",
+      "date": "2024-12-02",
+      "author": "Clay Cordova, Diego García-Sepúlveda",
+      "reference": "arXiv:2412.01877",
+      "subject": "hep-th, cond-mat.str-el, math.QA",
+      "abstract": "The coset construction of two-dimensional conformal field theory (2D CFT) defines a 2D CFT by taking the quotient of two previously known chiral algebras. In this work, we use the methods of non-abelian (non-invertible) anyon condensation to describe 2D topological cosets, defined by the special case where the quotient of chiral algebras is a conformal embedding. In this case, the coset has zero central charge, and the coset theory is thus purely topological. Using non-abelian anyon condensation we describe in general the spectrum of line and local operators as well as their fusion, operator product expansion, and the action of the lines on local operators. An important application of our results is to QCD$_{2}$ with massless fermions in any representation that leads to a gapped phase, where topological cosets (conjecturally) describe the infrared fixed point. We discuss several such examples in detail. For instance, we find that the $Spin(8)_{1}/SU(3)_{3}$ and $Spin(16)_{1}/Spin(9)_{2}$ topological cosets appearing at the infrared fixed point of appropriate QCD$_{2}$ theories are described by $\\mathbb{Z}_{2} \\times \\mathbb{Z}_{2}$ triality and $\\mathbb{Z}_{2} \\times \\mathrm{Rep(S_{3})}$ fusion categories respectively. Additionally, using this setup, we argue that chiral $Spin(8)$ QCD$_{2}$ with massless chiral fermions in the vectorial and spinorial representations is not only gapped, but moreover trivially gapped, with a unique ground state.",
+      "followedAuthors": [
+        "Clay Cordova"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2412.01877",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2412.01877"
+    },
+    {
+      "title": "Generative modeling assisted simulation of measurement-altered quantum criticality",
+      "category": "recent-preprint",
+      "date": "2024-12-02",
+      "author": "Yuchen Zhu, Molei Tao, Yuebo Jin, Xie Chen",
+      "reference": "arXiv:2412.01513",
+      "subject": "quant-ph, cs.LG",
+      "abstract": "In quantum many-body systems, measurements can induce qualitative new features, but their simulation is hindered by the exponential complexity involved in sampling the measurement results. We propose to use machine learning to assist the simulation of measurement-induced quantum phenomena. In particular, we focus on the measurement-altered quantum criticality protocol and generate local reduced density matrices of the critical chain given random measurement results. Such generation is enabled by a physics-preserving conditional diffusion generative model, which learns an observation-indexed probability distribution of an ensemble of quantum states, and then samples from that distribution given an observation.",
+      "followedAuthors": [
+        "Xie Chen"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2412.01513",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2412.01513"
+    },
+    {
+      "title": "Measurement of the dynamic charge susceptibility near the charge density wave transition in ErTe$_3$",
+      "category": "recent-preprint",
+      "date": "2024-11-22",
+      "author": "Dipanjan Chaudhuri, Qianni Jiang, Xuefei Guo, Jin Chen, Caitlin S. Kengle, Farzaneh Hoveyda-Marashi, Camille Bernal-Choban, Niels de Vries, Tai-Chang Chiang, Eduardo Fradkin, Ian R. Fisher, Peter Abbamonte",
+      "reference": "arXiv:2411.14746",
+      "subject": "cond-mat.str-el, cond-mat.mtrl-sci",
+      "abstract": "A charge density wave (CDW) is a phase of matter characterized by a periodic modulation of the valence electron density accompanied by a distortion of the lattice structure. The microscopic details of CDW formation are closely tied to the dynamic charge susceptibility, $χ(q,ω)$, which describes the behavior of electronic collective modes. Despite decades of extensive study, the behavior of $χ(q,ω)$ in the vicinity of a CDW transition has never been measured with high energy resolution ($\\sim$meV). Here, we investigate the canonical CDW transition in ErTe$_3$ using momentum-resolved electron energy loss spectroscopy (M-EELS), a technique uniquely sensitive to valence band charge excitations. Unlike phonons in these materials, which undergo conventional softening due to the Kohn anomaly at the CDW wavevector, the electronic excitations display purely relaxational dynamics that are well described by a diffusive model. The diffusivity peaks around 250 K, just below the critical temperature. Additionally, we report, for the first time, a divergence in the real part of $χ(q,ω)$ in the static limit ($ω\\rightarrow 0$), a phenomenon predicted to characterize CDWs since the 1970s. These results highlight the importance of energy- and momentum-resolved measurements of electronic susceptibility and demonstrate the power of M-EELS as a versatile probe of charge dynamics in materials.",
+      "followedAuthors": [
+        "Eduardo Fradkin"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2411.14746",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2411.14746"
+    },
+    {
+      "title": "Self-congruent point in critical matrix product states: An effective field theory for finite-entanglement scaling",
+      "category": "recent-preprint",
+      "date": "2024-11-06",
+      "author": "Jan T. Schneider, Atsushi Ueda, Yifan Liu, Andreas M. Läuchli, Masaki Oshikawa, Luca Tagliacozzo",
+      "reference": "arXiv:2411.03954",
+      "subject": "cond-mat.stat-mech, hep-th, quant-ph",
+      "abstract": "We set up an effective field theory formulation for the renormalization flow of matrix product states (MPS) with finite bond dimension, focusing on systems exhibiting finite-entanglement scaling close to a conformally invariant critical fixed point. We show that the finite MPS bond dimension $χ$ is equivalent to introducing a perturbation by a relevant operator to the fixed-point Hamiltonian. The fingerprint of this mechanism is encoded in the $χ$-independent universal transfer matrix's gap ratios, which are distinct from those predicted by the unperturbed Conformal Field Theory. This phenomenon defines a renormalization group self-congruent point, where the relevant coupling constant ceases to flow due to a balance of two effects; When increasing $χ$, the infrared scale, set by the correlation length $ξ(χ)$, increases, while the strength of the perturbation at the lattice scale decreases. The presence of a self-congruent point does not alter the validity of the finite-entanglement scaling hypothesis, since the self-congruent point is located at a finite distance from the critical fixed point, well inside the scaling regime of the CFT. We corroborate this framework with numerical evidences from the exact solution of the Ising model and density matrix renormalization group (DMRG) simulations of an effective lattice model.",
+      "followedAuthors": [
+        "Masaki Oshikawa"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2411.03954",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2411.03954"
+    },
+    {
+      "title": "A mathematical theory of topological invariants of quantum lattice systems",
+      "category": "recent-preprint",
+      "date": "2024-10-25",
+      "author": "Adam Artymowicz, Anton Kapustin, Bowen Yang",
+      "reference": "arXiv:2410.19287",
+      "subject": "math-ph, cond-mat.str-el, math.QA",
+      "abstract": "We show that Hall conductance and its non-abelian and higher-dimensional analogs are obstructions to promoting a symmetry of a state to a gauge symmetry. To do this, we define a local Lie algebra over a Grothendieck site as a pre-cosheaf of Lie algebras with additional properties and propose that a gauge symmetry should be described by such an object. We show that infinitesimal symmetries of a gapped state of a quantum spin system form a local Lie algebra over a site of semilinear sets and use it to construct topological invariants of the state. Our construction applies to lattice systems on arbitrary asymptotically conical subsets of a Euclidean space including those which cannot be studied using field theory.",
+      "followedAuthors": [
+        "Anton Kapustin"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2410.19287",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2410.19287"
+    },
+    {
+      "title": "Interplay of Quantum and Thermal Fluctuations in Two-Dimensional Randomly Pinned Charge Density Waves",
+      "category": "recent-preprint",
+      "date": "2024-10-21",
+      "author": "Matthew C. O'Brien, Eduardo Fradkin",
+      "reference": "arXiv:2410.16375",
+      "subject": "cond-mat.str-el, cond-mat.dis-nn",
+      "abstract": "The interplay between quantum and thermal fluctuations in the presence of quenched random disorder is a long-standing open theoretical problem which has been made more urgent by advances in modern experimental techniques. The fragility of charge density wave order to impurities makes this problem of particular interest in understanding a host of real materials, including the cuprate high-temperature superconductors. To address this question, we consider the quantum version of an exactly solvable classical model of two-dimensional randomly pinned incommensurate charge density waves first introduced by us in a recent work, and use the large-$N$ technique to obtain the phase diagram and order parameter correlations. Our theory considers quantum and thermal fluctuations and disorder on equal footing by accounting for all effects non-perturbatively, which reveals a novel crossover between under-damped and over-damped dynamics of the fluctuations of the charge density wave order parameter.",
+      "followedAuthors": [
+        "Eduardo Fradkin"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2410.16375",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2410.16375"
+    },
+    {
+      "title": "Topological chiral superconductivity beyond pairing in a Fermi liquid",
+      "category": "recent-preprint",
+      "date": "2024-09-26",
+      "author": "Minho Kim, Abigail Timmel, Long Ju, Xiao-Gang Wen",
+      "reference": "arXiv:2409.18067",
+      "subject": "cond-mat.str-el, cond-mat.supr-con",
+      "abstract": "We investigate a mechanism to produce superconductivity by strong purely repulsive interactions for flat dispersion $\\varepsilon \\sim k^4$, without using pairing instability in Fermi-liquid. The resulting superconductors break both time-reversal and reflection symmetries in the orbital motion of electrons, and exhibit non-trivial topological order. Our findings suggest that this topological chiral superconductivity is more likely to emerge near or between fully spin-valley polarized metallic phase and Wigner crystal phase. These topological chiral superconductors can be fully or partially spin-valley polarized. For partial spin-valley polarization, the ratios of electron densities associated with different spin-valley quantum numbers are quantized as simple rational numbers. Furthermore, many of these topological chiral superconductors exhibit charge-4 or higher condensation, neutral quasiparticles with fractional statistics, and/or gapless chiral edge states. Two of the topological chiral superconductors are in the same phases as the ``spin''-triplet or spinless $p+ \\textrm{i} p$ BCS superconductor, while others are in different phases than any BCS superconductors. The same mechanism is also used to produce anyon superconductivity between fractional anomalous quantum Hall states in the presence of a periodic potential.",
+      "followedAuthors": [
+        "Xiao-Gang Wen"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2409.18067",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2409.18067"
+    },
+    {
+      "title": "Fusion of Low-Entanglement Excitations in 2D Toric Code",
+      "category": "recent-preprint",
+      "date": "2024-09-11",
+      "author": "Jing-Yu Zhao, Xie Chen",
+      "reference": "arXiv:2409.07544",
+      "subject": "cond-mat.str-el",
+      "abstract": "On top of a $D$-dimensional gapped bulk state, Low Entanglement Excitations (LEE) on $d$($<D$)-dimensional sub-manifolds can have extensive energy but preserves the entanglement area law of the ground state. Due to their multi-dimensional nature, the LEEs embody a higher-category structure in quantum systems. They are the ground state of a modified Hamiltonian and hence capture the notions of `defects' of generalized symmetries. In previous works, we studied the low-entanglement excitations in a trivial phase as well as those in invertible phases. We find that LEEs in these phases have the same structure as lower-dimensional gapped phases and their defects within. In this paper, we study the LEEs inside non-invertible topological phases. We focus on the simple example of $\\mathbb{Z}_2$ toric code and discuss how the fusion result of 1d LEEs with 0d morphisms can depend on both the choice of fusion circuit and the ordering of the fused defects.",
+      "followedAuthors": [
+        "Xie Chen"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2409.07544",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2409.07544"
+    },
+    {
+      "title": "Duality via Sequential Quantum Circuit in the Topological Holography Formalism",
+      "category": "recent-preprint",
+      "date": "2024-09-10",
+      "author": "Robijn Vanhove, Vibhu Ravindran, David T. Stephen, Xiao-Gang Wen, Xie Chen",
+      "reference": "arXiv:2409.06647",
+      "subject": "cond-mat.str-el, quant-ph",
+      "abstract": "Two quantum theories which look different but are secretly describing the same low-energy physics are said to be dual to each other. When realized in the Topological Holography formalism, duality corresponds to changing the gapped boundary condition on the top boundary of a topological field theory, which determines the symmetry of the system, while not affecting the bottom boundary where all the dynamics take place. In this paper, we show that duality in the Topological Holography formalism can be realized with a Sequential Quantum Circuit applied to the top boundary. As a consequence, the Hamiltonians before and after the duality mapping have exactly the same spectrum in the corresponding symmetry sectors, and the entanglement in the corresponding low-energy eigenstates differs by at most an area law term.",
+      "followedAuthors": [
+        "Xiao-Gang Wen",
+        "Xie Chen"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2409.06647",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2409.06647"
+    },
+    {
+      "title": "Magnetization oscillations in a periodically driven transverse field Ising chain",
+      "category": "recent-preprint",
+      "date": "2024-08-25",
+      "author": "Xiao Wang, Masaki Oshikawa, Márton Kormos, Jianda Wu",
+      "reference": "arXiv:2408.13725",
+      "subject": "cond-mat.str-el, cond-mat.stat-mech, physics.atom-ph",
+      "abstract": "We investigate the nonequilibrium dynamics of the magnetization in an Ising chain subjected to a slowly rotating transverse field. The magnetization oscillations are found to be explained by the contributions from different particle excitations in the quantum $E_8$ model. We study the magnetization in the frequency domain in detail, uncovering a series of singular peaks for the $z$ (Ising) component. These singular peaks are split into two sets for the magnetization along $x$ and $y$ directions with frequency shifts set by the rotational-field frequency. The peaks include both $δ$-function type and edge-singularity type peaks. The $δ$-function peaks can be attributed to particle excitations involving an $E_8$ particle with either the vacuum or a different particle. The edge-singularity peaks are contributed by particle excitations of two $E_8$ particles with either the vacuum or another particle, or by particle excitations that contain two sets of two particles with each set including at least a particle of the same type. We propose a Rydberg qubit array for possible experimental investigation.",
+      "followedAuthors": [
+        "Masaki Oshikawa"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2408.13725",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2408.13725"
+    },
+    {
+      "title": "Strict area law entanglement versus chirality",
+      "category": "recent-preprint",
+      "date": "2024-08-19",
+      "author": "Xiang Li, Ting-Chun Lin, John McGreevy, Bowen Shi",
+      "reference": "arXiv:2408.10306",
+      "subject": "quant-ph, cond-mat.mes-hall, cond-mat.str-el, math-ph",
+      "abstract": "Chirality is a property of a gapped phase of matter in two spatial dimensions that can be manifested through non-zero thermal or electrical Hall conductance. In this paper, we prove two no-go theorems that forbid such chirality for a quantum state in a finite dimensional local Hilbert space with strict area law entanglement entropies. As a crucial ingredient in the proofs, we introduce a new quantum information-theoretic primitive called instantaneous modular flow, which has many other potential applications.",
+      "followedAuthors": [
+        "John McGreevy"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2408.10306",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2408.10306"
+    },
+    {
+      "title": "Physical proof of the topological entanglement entropy inequality",
+      "category": "recent-preprint",
+      "date": "2024-08-08",
+      "author": "Michael Levin",
+      "reference": "arXiv:2408.04592",
+      "subject": "quant-ph, cond-mat.str-el",
+      "abstract": "Recently it was shown that the topological entanglement entropy (TEE) of a two-dimensional gapped ground state obeys the universal inequality $γ\\geq \\log \\mathcal{D}$, where $γ$ is the TEE and $\\mathcal{D}$ is the total quantum dimension of all anyon excitations, $\\mathcal{D} = \\sqrt{\\sum_a d_a^2}$. Here we present an alternative, more direct proof of this inequality. Our proof uses only the strong subadditivity property of the von Neumann entropy together with a few physical assumptions about the ground state density operator. Our derivation naturally generalizes to a variety of systems, including spatially inhomogeneous systems with defects and boundaries, higher dimensional systems, and mixed states.",
+      "followedAuthors": [
+        "Michael Levin"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2408.04592",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2408.04592"
+    },
+    {
+      "title": "Intrinsic mixed-state SPT from modulated symmetries and hierarchical structure of anomaly",
+      "category": "recent-preprint",
+      "date": "2024-07-11",
+      "author": "Yizhi You, Masaki Oshikawa",
+      "reference": "arXiv:2407.08786",
+      "subject": "quant-ph, cond-mat.str-el, hep-th",
+      "abstract": "We introduce a class of intrinsic symmetry-protected topological mixed-state(mSPT) in open quantum systems that feature modulated symmetries, such as dipole and subsystem symmetries. Intriguingly, these mSPT phases cannot be realized as the ground states of a gapped Hamiltonian under thermal equilibrium. The microscopic form of the density matrix characterizing these intrinsic mixed-state SPT ensembles is constructed using solvable coupled-wire models that incorporate quenched disorder or quantum channels. A detailed comparison of the hierarchical structure of boundary anomalies in both pure and mixed states is presented, utilizing flux insertion and Laughlin's charge pumping arguments. Finally, we explore the salient features of boundary anomalies in the mixed-state ensemble, which can be detected through the Renyi-N correlation function of charged observables.",
+      "followedAuthors": [
+        "Masaki Oshikawa"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2407.08786",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2407.08786"
+    },
+    {
+      "title": "Entanglement swapping in critical quantum spin chains",
+      "category": "recent-preprint",
+      "date": "2024-06-18",
+      "author": "Masahiro Hoshino, Masaki Oshikawa, Yuto Ashida",
+      "reference": "arXiv:2406.12377",
+      "subject": "quant-ph, cond-mat.quant-gas, cond-mat.stat-mech, cond-mat.str-el",
+      "abstract": "The transfer of quantum information between many-qubit states is a subject of fundamental importance in quantum science and technology. We consider entanglement swapping in critical quantum spin chains, where the entanglement between the two chains is induced solely by the Bell-state measurements. We employ a boundary conformal field theory (CFT) approach and describe the measurements as conformal boundary conditions in the replicated field theory. We show that the swapped entanglement exhibits a logarithmic scaling, whose coefficient takes a universal value determined by the scaling dimension of the boundary condition changing operator. We apply our framework to the critical spin-1/2 XXZ chain and determine the universal coefficient by the boundary CFT analysis. We also numerically verify these results by the tensor-network calculations. Possible experimental relevance to Rydberg atom arrays is briefly discussed.",
+      "followedAuthors": [
+        "Masaki Oshikawa"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2406.12377",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2406.12377"
+    },
+    {
+      "title": "Hierarchy construction for non-abelian fractional quantum Hall states via anyon condensation",
+      "category": "recent-preprint",
+      "date": "2024-06-17",
+      "author": "Carolyn Zhang, Ashvin Vishwanath, Xiao-Gang Wen",
+      "reference": "arXiv:2406.12068",
+      "subject": "cond-mat.str-el",
+      "abstract": "For a given parent fractional quantum Hall (FQH) state at filling fraction $ν$, the hierarchy construction produces FQH states at nearby filling fractions $\\{ν_n\\}$ by condensing minimally charged quasiholes or quasiparticles of the parent state into their own FQH states. The hierarchy construction has been useful for relating families of FQH states and for the experimental identification of the topological order of parent states via the presence of daughter states. We reinterpret the hierarchy construction as a two-step procedure: stacking with a second FQH state and condensing a condensable algebra of bosons. This two-step procedure can be applied to both abelian and non-abelian FQH states, and it does not require calculations with a wavefunction. We show this construction reproduces the hierarchies for the Laughlin and Pfaffian states, and can be applied further to propose hierarchies for various non-abelian FQH states.",
+      "followedAuthors": [
+        "Xiao-Gang Wen"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2406.12068",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2406.12068"
+    },
+    {
+      "title": "Ferromagnets, a New Anomaly, Instantons, and (noninvertible) Continuous Translations",
+      "category": "recent-preprint",
+      "date": "2024-06-10",
+      "author": "Nathan Seiberg",
+      "reference": "arXiv:2406.06698",
+      "subject": "cond-mat.str-el, hep-th",
+      "abstract": "We discuss a large class of classical field theories with continuous translation symmetry. In the quantum theory, a new anomaly explicitly breaks this translation symmetry to a discrete symmetry. Furthermore, this discrete translation symmetry is extended by a $d-2$-form global symmetry. All these theories can be described as $U(1)$ gauge theories where Gauss law states that the system has nonzero charge density. Special cases of such systems can be phrased as theories with a compact phase space. Examples are ferromagnets and lattices in the lowest Landau level. In some cases, the broken continuous translation symmetry can be resurrected as a noninvertible symmetry. We clarify the relation between the discrete translation symmetry of the continuum theory and the discrete translation symmetry of an underlying lattice model. Our treatment unifies, clarifies, and extends earlier works on the same subject.",
+      "followedAuthors": [
+        "Nathan Seiberg"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2406.06698",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2406.06698"
+    },
+    {
+      "title": "Many-body systems with spurious modular commutators",
+      "category": "recent-preprint",
+      "date": "2024-05-24",
+      "author": "Julian Gass, Michael Levin",
+      "reference": "arXiv:2405.15892",
+      "subject": "quant-ph, cond-mat.str-el",
+      "abstract": "Recently, it was proposed that the chiral central charge of a gapped, two-dimensional quantum many-body system is proportional to a bulk ground state entanglement measure known as the modular commutator. While there is significant evidence to support this relation, we show in this paper that it is not universal. We give examples of lattice systems that have vanishing chiral central charge which nevertheless give nonzero \"spurious\" values for the modular commutator for arbitrarily large system sizes, in both one and two dimensions. Our examples are based on cluster states and utilize the fact that they can generate nonlocal modular Hamiltonians.",
+      "followedAuthors": [
+        "Michael Levin"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2405.15892",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2405.15892"
+    },
+    {
+      "title": "Relativistic Guiding-Center Motion: Action Principle, Kinetic Theory, and Hydrodynamics",
+      "category": "recent-preprint",
+      "date": "2024-05-13",
+      "author": "Dam Thanh Son, Mikhail Stephanov",
+      "reference": "arXiv:2405.08073",
+      "subject": "nucl-th, astro-ph.HE, hep-th, physics.plasm-ph",
+      "abstract": "We treat the guiding-center dynamics in a varying external Maxwell field using a relativistically covariant action principle which reproduces the known Vandervoort expression for the drift velocity and extends it to curved spacetime. We derive the corresponding kinetic theory and ideal hydrodynamic theory. In contrast to conventional five-equation hydrodynamics, the guiding-center hydrodynamics needs only three equations due to a constraint on the motion across magnetic field. We argue that such a hydrodynamics is applicable to strongly coupled plasmas where kinetic theory fails.",
+      "followedAuthors": [
+        "Dam Thanh Son"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2405.08073",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2405.08073"
+    },
+    {
+      "title": "Finite-size corrections to the energy spectra of gapless one-dimensional systems in the presence of boundaries",
+      "category": "recent-preprint",
+      "date": "2024-05-11",
+      "author": "Yifan Liu, Haruki Shimizu, Atsushi Ueda, Masaki Oshikawa",
+      "reference": "arXiv:2405.06891",
+      "subject": "cond-mat.str-el",
+      "abstract": "We present the finite-size scaling theory of one-dimensional quantum critical systems in the presence of boundaries. While the finite-size spectrum in the conformal limit, namely of a conformal field theory with conformally invariant boundary conditions, is related to the dimensions of boundary operators by Cardy, the actual spectra of lattice models are affected by both bulk and boundary perturbations and contain non-universal boundary energies. We obtain a general expression of the finite-size energy levels in the presence of bulk and boundary perturbations. In particular, a generic boundary perturbation related to the energy-momentum tensor gives rise to a renormalization of the effective system size. We verify our field-theory formulation by comparing the results with the exact solution of the critical transverse-field Ising chain and with accurate numerical results on the critical three-state Potts chain obtained by Density-Matrix Renormalization Group.",
+      "followedAuthors": [
+        "Masaki Oshikawa"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2405.06891",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2405.06891"
+    },
+    {
+      "title": "Conformal geometry from entanglement",
+      "category": "recent-preprint",
+      "date": "2024-04-04",
+      "author": "Isaac H. Kim, Xiang Li, Ting-Chun Lin, John McGreevy, Bowen Shi",
+      "reference": "arXiv:2404.03725",
+      "subject": "quant-ph, cond-mat.str-el, hep-th",
+      "abstract": "In a physical system with conformal symmetry, observables depend on cross-ratios, measures of distance invariant under global conformal transformations (conformal geometry for short). We identify a quantum information-theoretic mechanism by which the conformal geometry emerges at the gapless edge of a 2+1D quantum many-body system with a bulk energy gap. We introduce a novel pair of information-theoretic quantities $(\\mathfrak{c}_{\\mathrm{tot}}, η)$ that can be defined locally on the edge from the wavefunction of the many-body system, without prior knowledge of any distance measure. We posit that, for a topological groundstate, the quantity $\\mathfrak{c}_{\\mathrm{tot}}$ is stationary under arbitrary variations of the quantum state, and study the logical consequences. We show that stationarity, modulo an entanglement-based assumption about the bulk, implies (i) $\\mathfrak{c}_{\\mathrm{tot}}$ is a non-negative constant that can be interpreted as the total central charge of the edge theory. (ii) $η$ is a cross-ratio, obeying the full set of mathematical consistency rules, which further indicates the existence of a distance measure of the edge with global conformal invariance. Thus, the conformal geometry emerges from a simple assumption on groundstate entanglement. We show that stationarity of $\\mathfrak{c}_{\\mathrm{tot}}$ is equivalent to a vector fixed-point equation involving $η$, making our assumption locally checkable. We also derive similar results for 1+1D systems under a suitable set of assumptions.",
+      "followedAuthors": [
+        "John McGreevy"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2404.03725",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2404.03725"
+    },
+    {
+      "title": "Nishimori's self-tuning as evidence for the existence of God",
+      "category": "recent-preprint",
+      "date": "2024-04-01",
+      "author": "John McGreevy, Tarun Grover",
+      "reference": "arXiv:2404.00919",
+      "subject": "hep-th, quant-ph",
+      "abstract": "Apparent violations of Naturalness may be explained by positing the existence of an omniscient but disinterested and possibly fallible Observer who regularly performs von Neumann measurements on us (and everything else). We comment briefly on the implications for the construction of scalable quantum computers.",
+      "followedAuthors": [
+        "John McGreevy"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2404.00919",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2404.00919"
+    },
+    {
+      "title": "Chiral Virasoro algebra from a single wavefunction",
+      "category": "recent-preprint",
+      "date": "2024-03-27",
+      "author": "Isaac H. Kim, Xiang Li, Ting-Chun Lin, John McGreevy, Bowen Shi",
+      "reference": "arXiv:2403.18410",
+      "subject": "quant-ph, cond-mat.mes-hall, cond-mat.str-el, hep-th",
+      "abstract": "Chiral edges of 2+1D systems can have very robust emergent conformal symmetry. When the edge is purely chiral, the Hilbert space of low-energy edge excitations can form a representation of a single Virasoro algebra. We propose a method to systematically extract the generators of the Virasoro algebra from a single ground state wavefunction, using entanglement bootstrap and an input from the edge conformal field theory. We corroborate our construction by numerically verifying the commutation relations of the generators. We also study the unitary flows generated by these operators, whose properties (such as energy and state overlap) are shown numerically to agree with our analytical predictions.",
+      "followedAuthors": [
+        "John McGreevy"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2403.18410",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2403.18410"
+    },
+    {
+      "title": "Non-invertible symmetries and LSM-type constraints on a tensor product Hilbert space",
+      "category": "recent-preprint",
+      "date": "2024-01-22",
+      "author": "Nathan Seiberg, Sahand Seifnashri, Shu-Heng Shao",
+      "reference": "arXiv:2401.12281",
+      "subject": "cond-mat.str-el, hep-th",
+      "abstract": "We discuss the exact non-invertible Kramers-Wannier symmetry of 1+1d lattice models on a tensor product Hilbert space of qubits. This symmetry is associated with a topological defect and a conserved operator, and the latter can be presented as a matrix product operator. Importantly, unlike its continuum counterpart, the symmetry algebra involves lattice translations. Consequently, it is not described by a fusion category. In the presence of this defect, the symmetry algebra involving parity/time-reversal is realized projectively, which is reminiscent of an anomaly. Different Hamiltonians with the same lattice non-invertible symmetry can flow in their continuum limits to infinitely many different fusion categories (with different Frobenius-Schur indicators), including, as a special case, the Ising CFT. The non-invertible symmetry leads to a constraint similar to that of Lieb-Schultz-Mattis, implying that the system cannot have a unique gapped ground state. It is either in a gapless phase or in a gapped phase with three (or a multiple of three) ground states, associated with the spontaneous breaking of the lattice non-invertible symmetry.",
+      "followedAuthors": [
+        "Nathan Seiberg",
+        "Shu-Heng Shao"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2401.12281",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2401.12281"
+    },
+    {
+      "title": "Anomalous symmetries of quantum spin chains and a generalization of the Lieb-Schultz-Mattis theorem",
+      "category": "recent-preprint",
+      "date": "2024-01-04",
+      "author": "Anton Kapustin, Nikita Sopenko",
+      "reference": "arXiv:2401.02533",
+      "subject": "math-ph, cond-mat.str-el, hep-th",
+      "abstract": "For any locality-preserving action of a group $G$ on a quantum spin chain one can define an anomaly index taking values in the group cohomology of $G$. The anomaly index is a kinematic quantity, it does not depend on the Hamiltonian. We prove that a nonzero anomaly index prohibits any $G$-invariant Hamiltonian from having $G$-invariant gapped ground states. Lieb-Schultz-Mattis-type theorems are a special case of this result when $G$ involves translations. In the case when the symmetry group $G$ is a Lie group, we define an anomaly index which takes values in the differentiable group cohomology as defined by J.-L. Brylinski and prove a similar result.",
+      "followedAuthors": [
+        "Anton Kapustin"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2401.02533",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2401.02533"
+    },
+    {
+      "title": "Dimer piling problems and interacting field theory",
+      "category": "recent-preprint",
+      "date": "2023-12-20",
+      "author": "Rolando Ramirez Camasca, John McGreevy",
+      "reference": "arXiv:2312.13390",
+      "subject": "hep-th, cond-mat.stat-mech, math.CO",
+      "abstract": "The dimer tiling problem asks in how many ways can the edges of a graph be covered by dimers so that each site is covered once. In the special case of a planar graph, this problem has a solution in terms of a free fermionic field theory. We rediscover and explore an expression for the number of coverings of an arbitrary graph by arbitrary objects in terms of an interacting fermionic field theory first proposed by Samuel. Generalizations of the dimer tiling problem, which we call `dimer piling problems,' demand that each site be covered N times by indistinguishable dimers. Our field theory provides a solution of these problems in the large-N limit. We give a similar path integral representation for certain lattice coloring problems.",
+      "followedAuthors": [
+        "John McGreevy"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2312.13390",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2312.13390"
+    },
+    {
+      "title": "Applied nonrelativistic conformal field theory: scattering-length and effective-range corrections to unnuclear physics",
+      "category": "recent-preprint",
+      "date": "2023-09-26",
+      "author": "Subham Dutta Chowdhury, Ruchira Mishra, Dam Thanh Son",
+      "reference": "arXiv:2309.15177",
+      "subject": "hep-th, nucl-th",
+      "abstract": "Due to an accidentally large $s$-wave scattering length, in a relatively wide range of energy, neutrons are approximately described by the nonrelativistic conformal field theory of unitarity fermions, perturbed by one relevant and an infinite number of irrelevant operators. We develop a formalism which provides a nonperturbative definition of local operators in that nonrelativistic conformal field theory. We compute the scattering-length and effective-range corrections to the two-point functions of primary charge-three operators using the technique of conformal perturbation theory. These calculations allow us to find the first corrections to the scale-invariant behavior of the rate of nuclear reactions with three neutrons in the final state in the regime when the neutrons have small relative momenta.",
+      "followedAuthors": [
+        "Dam Thanh Son"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2309.15177",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2309.15177"
+    },
+    {
+      "title": "Nonlinear Lifshitz Photon Theory in Condensed Matter Systems",
+      "category": "recent-preprint",
+      "date": "2023-09-07",
+      "author": "Yi-Hsien Du, Cenke Xu, Dam Thanh Son",
+      "reference": "arXiv:2309.03946",
+      "subject": "cond-mat.str-el, hep-th",
+      "abstract": "We present an interacting theory of a $U(1)$ gauge boson with a quadratic dispersion relation, which we call the \"nonlinear Lifshitz photon theory.'' The Lifshitz photon is a three-dimensional generalization of the Tkachenko mode in rotating superfluids. Starting from the Wigner crystal of charged particles coupled to a dynamical $U(1)$ gauge field, after integrating out gapped degrees of freedom, we arrive at the Lagrangian for the nonlinear Lifshitz photon. The symmetries of the theory include a global $U(1)$ 1-form symmetry and nonlinearly realized \"magnetic\" translation and rotation symmetries. The interaction terms in the theory lead to the decay of the Lifshitz photon, the rate of which we estimate. We show that the Wilson loop, which plays the role of the order parameter of the spontaneous breaking of the 1-form global symmetry, deviates from the perimeter law by an additional logarithmic factor. We explore potential connections to other condensed matter systems, with a particular focus on quantum spin ice and ferromagnets. Finally, we generalize our theory to higher dimensions.",
+      "followedAuthors": [
+        "Dam Thanh Son",
+        "Cenke Xu"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2309.03946",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2309.03946"
+    },
+    {
+      "title": "Stability of topological superconducting qubits with number conservation",
+      "category": "recent-preprint",
+      "date": "2023-08-24",
+      "author": "Matthew F. Lapa, Michael Levin",
+      "reference": "arXiv:2308.12995",
+      "subject": "cond-mat.supr-con, math-ph",
+      "abstract": "The study of topological superconductivity is largely based on the analysis of simple mean-field models that do not conserve particle number. A major open question in the field is whether the remarkable properties of these mean-field models persist in more realistic models with a conserved total particle number and long-range interactions. For applications to quantum computation, two key properties that one would like to verify in more realistic models are (i) the existence of a set of low-energy states (the qubit states) that are separated from the rest of the spectrum by a finite energy gap, and (ii) an exponentially small (in system size) bound on the splitting of the energies of the qubit states. It is well known that these properties hold for mean-field models, but so far only property (i) has been verified in a number-conserving model. In this work we fill this gap by rigorously establishing both properties (i) and (ii) for a number-conserving toy model of two topological superconducting wires coupled to a single bulk superconductor. Our result holds in a broad region of the parameter space of this model, suggesting that properties (i) and (ii) are robust properties of number-conserving models, and not just artifacts of the mean-field approximation.",
+      "followedAuthors": [
+        "Michael Levin"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2308.12995",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2308.12995"
+    },
+    {
+      "title": "Quantization of the higher Berry curvature and the higher Thouless pump",
+      "category": "recent-preprint",
+      "date": "2023-05-10",
+      "author": "Adam Artymowicz, Anton Kapustin, Nikita Sopenko",
+      "reference": "arXiv:2305.06399",
+      "subject": "math-ph, cond-mat.str-el, hep-th",
+      "abstract": "We show that for families of 1d lattice systems in an invertible phase, the cohomology class of the higher Berry curvature can be refined to an integral degree-3 class on the parameter space. Similarly, for families of U(1)-invariant 2d lattice systems in an invertible phase, the higher Thouless pump can be refined to an integral degree-2 class on the parameter space. We show that the 2d Thouless pump can be identified with an excess Berry curvature of a flux insertion.",
+      "followedAuthors": [
+        "Anton Kapustin"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2305.06399",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2305.06399"
+    },
+    {
+      "title": "Hohenberg-Mermin-Wagner-type theorems and dipole symmetry",
+      "category": "recent-preprint",
+      "date": "2022-08-18",
+      "author": "Anton Kapustin, Lev Spodyneiko",
+      "reference": "arXiv:2208.09056",
+      "subject": "cond-mat.str-el, cond-mat.stat-mech, hep-th",
+      "abstract": "We study the possibility of spontaneous symmetry breaking in systems with both charge and dipole symmetries. For $d$-dimensional systems at a positive temperature, we show that charge symmetry cannot be spontaneously broken for $d\\leq 4$, while dipole symmetry cannot be spontaneously broken for $d\\leq 2$. For $T=0$, we show that charge symmetry cannot be spontaneously broken for $d\\leq 2$ if the compressibility is finite. We also show that continuum systems with a dipole symmetry have infinite inertial mass density.",
+      "followedAuthors": [
+        "Anton Kapustin"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2208.09056",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2208.09056"
+    },
+    {
+      "title": "Local Noether theorem for quantum lattice systems and topological invariants of gapped states",
+      "category": "recent-preprint",
+      "date": "2022-01-04",
+      "author": "Anton Kapustin, Nikita Sopenko",
+      "reference": "arXiv:2201.01327",
+      "subject": "math-ph, cond-mat.stat-mech, cond-mat.str-el, quant-ph",
+      "abstract": "We study generalizations of the Berry phase for quantum lattice systems in arbitrary dimensions. For a smooth family of gapped ground states in d dimensions, we define a closed (d+2)-form on the parameter space which generalizes the curvature of the Berry connection. Its cohomology class is a topological invariant of the family. When the family is equivariant under the action of a compact Lie group G, topological invariants take values in the equivariant cohomology of the parameter space. These invariants unify and generalize the Hall conductance and the Thouless pump. A key role in these constructions is played by a certain differential graded Frechet-Lie algebra attached to any quantum lattice system. As a by-product, we describe ambiguities in charge densities and conserved currents for arbitrary lattice systems with rapidly decaying interactions.",
+      "followedAuthors": [
+        "Anton Kapustin"
+      ],
+      "image": "",
+      "link": "https://arxiv.org/abs/2201.01327",
+      "linkText": "arXiv",
+      "pdf": "https://arxiv.org/pdf/2201.01327"
     }
   ]
 }
